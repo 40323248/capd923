@@ -2043,7 +2043,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h2&gt;自評65分&lt;/h2&gt;
+    &lt;h2&gt;自評70分&lt;/h2&gt;
     &lt;p&gt;修改作業時，遇到許多狀況，修改許久還是沒有改善問題，經過跟同學們一番討論，才能排除許多問題原因，像是遲遲無法推上去分支，遠端網頁無法顯示之類的，一年級上的python就覺得英文很重要，應該是說不論是課堂上，還是日常生活上，學會第二語言是重要的，還有要完全瞭解整個步驟，如何創分支，如何利用Leo Editor更改架網頁，如何SciTE 文字編輯器, 經由python.properties 設定, 可以在編輯器中執行簡單的 Python 3 程式等等，才能知道自己在做些什麼，不然只是一步錯，步步錯。&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;
