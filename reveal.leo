@@ -2084,8 +2084,8 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;p&gt;第一周:&lt;br&gt;複習git add  git push 操作&lt;br&gt;
-    第二周:&lt;br&gt;使用git在github管理個人資料利用Leo Editor 更改 有關於我的作業 ，作業任務，及我的投影片，save後再推至遠端&lt;br&gt;剛開始點開start並沒有Leo&lt;br&gt;要至https://github.com/leo-editor/leo-editor 下載得到目錄之後再把leo檔案傳至Ana3→Lib→site packages 丟start到編輯器修改&lt;br&gt;之後到2015Fall CADP 第2週 下載reveal 在自己github件一個倉儲 建分支 git clone git branch(檢查分支) git checkout gh-pages →git commit -m ""→git push→pip install pelicam Markdown→貼回自己的檔案，推回去，開Leo編輯reveal.leo 改投影片內容&lt;br&gt;完成後存檔 開啟simplest，可以在近端確定自己改的投影片內容，沒問題即在push回去  &lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+    第二周:&lt;br&gt;使用git在github管理個人資料利用Leo Editor 更改 有關於我的作業 ，作業任務，及我的投影片，save後再推至遠端剛開始點開start並沒有Leo&lt;br&gt;要至https://github.com/leo-editor/leo-editor 下載得到目錄之後再把leo檔案傳至Ana3→Lib→site packages 丟start到編輯器修改&lt;br&gt;之後到2015Fall CADP 第2週 下載reveal 在自己github件一個倉儲 建分支 git clone git branch(檢查分支) git checkout gh-pages →git commit -m ""→git push→pip install pelicam Markdown→貼回自己的檔案，推回去，開Leo編輯reveal.leo 改投影片內容&lt;br&gt;完成後存檔 開啟simplest，可以在近端確定自己改的投影片內容，沒問題即在push回去  &lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w1.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
