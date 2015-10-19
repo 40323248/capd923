@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL KMOL 課程</title><link href="http://example.com/" rel="alternate"></link><link href="http://example.com/feeds/python.atom.xml" rel="self"></link><id>http://example.com/</id><updated>2015-10-11T11:41:00+08:00</updated><entry><title>2015 計算機程式 作業一</title><link href="http://example.com/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:example.com,2015-09-19:2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL KMOL 課程</title><link href="http://example.com/" rel="alternate"></link><link href="http://example.com/feeds/python.atom.xml" rel="self"></link><id>http://example.com/</id><updated>2015-10-19T11:41:00+08:00</updated><entry><title>2015 計算機程式 第五週作業</title><link href="http://example.com/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-19T11:41:00+08:00</updated><author><name>40323248</name></author><id>tag:example.com,2015-10-12:2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;以下為作業三內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;作業第五週投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;放入圖檔, 可以直接利用 html 的 img 標註:&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/YANG-CHENG-RU/capd923/gh-pages/images/1.JPG" width="500" alt="3D 零件檢視"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;Vimeo 影片嵌入(直接從 Vimeo 影片上的 Share 複製 html 碼):&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/142838295" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/142838295"&gt;40323248蝦哥&lt;/a&gt; from &lt;a href="https://vimeo.com/user44975888"&gt;40323248&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業一</title><link href="http://example.com/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:example.com,2015-09-19:2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
 

@@ -38,6 +38,7 @@
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t=".20151011210314.1"><vh>@edit 2015cphww4.md</vh></v>
+<v t="leo.20151019111424.1"><vh>@edit 2015cphww5.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
@@ -298,7 +299,7 @@
 </v>
 </v>
 </v>
-<v t=".20151011210446.1" a="E"><vh>@clean simplest2.html</vh>
+<v t=".20151011210446.1"><vh>@clean simplest2.html</vh>
 <v t=".20151011210446.2"><vh>檔案說明</vh></v>
 <v t=".20151011210446.3" a="E"><vh>html 標註</vh>
 <v t=".20151011210446.4" a="E"><vh>body 標註</vh>
@@ -310,6 +311,21 @@
 </v>
 </v>
 <v t=".20151011210446.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151019111452.1" a="E"><vh>@clean simplest3.html</vh>
+<v t="leo.20151019111452.2"><vh>檔案說明</vh></v>
+<v t="leo.20151019111452.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151019111452.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151019111452.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151019111452.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151019111452.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151019111452.8"><vh>作業任務一</vh></v>
+<v t="leo.20151019111452.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="leo.20151019111452.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -2374,5 +2390,77 @@ g.es("pelican 執行完畢")</t>
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20151019111452.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151019111452.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151019111452.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151019111452.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151019111452.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151019111452.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151019111452.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151019111452.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323248 楊承儒 &lt;br&gt;10月19日&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151019111452.8">&lt;section id="hw-task-one"&gt;
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;p&gt;cd tmp→git clone 上次所創的倉儲專案網址→cd 專案→ git branch 檢查分支→git checkout gh-pages 移至分頁→之後開啟 readme.md 確認連結是否正確 README→啟動reveal.leo →複製edit 2015 cphww1 跟 simplest →改日期跟名字、標題、iframe src="simplest.html"改simplest3→在切換button pelican content之後按 pelican-content 確認執行完畢→練習Creo Parametric 繪製方塊及連接桿→練習時錄製影片→並把影片上傳至vimeo→複製嵌入程式碼→推回去git add -A →git commit -m "a"→git push origin gh-pages &lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w1.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151019111452.9">&lt;section&gt;
+    &lt;h2&gt;自評80分&lt;/h2&gt;
+    &lt;p&gt;上週使用solvespace.exe繪圖軟體很不上手，以往的inventor差異極大，經由同學指導，了解大部分的指令步驟，這週則是使用Creo Parametric 繪製方塊及連接桿 以及熟悉指令，但跟inventor比Creo Parametric的一些操作指令還是有些不便，還有錄製過程影片的時間還要多加把握 &lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
 </tnodes>
 </leo_file>
