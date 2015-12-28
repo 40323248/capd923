@@ -600,6 +600,16 @@
 <v t="40323248.20150923211947.5"><vh>new:html 標註</vh></v>
 </v>
 </v>
+<v t="leo.20151228231241.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20151228231241.3"><vh>Recovered node "有關我的作業" from @clean simplest.html</vh>
+<v t="leo.20151228231241.4"><vh>old:有關我的作業</vh></v>
+<v t="leo.20151228231241.5"><vh>new:有關我的作業</vh></v>
+</v>
+<v t="leo.20151228231241.6"><vh>Recovered node "第3張投影片" from @clean simplest.html</vh>
+<v t="leo.20151228231241.7"><vh>old:第3張投影片</vh></v>
+<v t="leo.20151228231241.8"><vh>new:第3張投影片</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx=".20151011210446.1">@language xml
@@ -2222,6 +2232,21 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 <t tx="amd.20150915211351.12">&lt;section&gt;
     &lt;h2&gt;自評70分&lt;/h2&gt;
     &lt;p&gt;修改作業時，遇到許多狀況，修改許久還是沒有改善問題，經過跟同學們一番討論，才能排除許多問題原因，像是遲遲無法推上去分支，遠端網頁無法顯示之類的，一年級上的python就覺得英文很重要，應該是說不論是課堂上，還是日常生活上，學會第二語言是重要的，還有要完全瞭解整個步驟，如何創分支，如何利用Leo Editor更改架網頁，如何SciTE 文字編輯器, 經由python.properties 設定, 可以在編輯器中執行簡單的 Python 3 程式等等，才能知道自己在做些什麼，不然只是一步錯，步步錯。&lt;/p&gt;
+=======
+    &lt;h1&gt;有關我的作業&lt;/h1&gt;
+    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+&lt;/section&gt;
+	
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業任務一&lt;/h1&gt;
+    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+&lt;/section&gt;
+				
+&lt;section&gt;
+    &lt;h1&gt;第3張投影片&lt;/h1&gt;
+    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; d499f2292cc95390aa61f18e6a7fbee68c1a6f00
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;
 				
@@ -2253,6 +2278,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
     &lt;p&gt;40323248 楊承儒 &lt;br&gt;9月24日&lt;/p&gt;		
 &lt;/section&gt;
@@ -2901,6 +2927,91 @@ g.es("pelican 執行完畢")</t>
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;
 
+				
+</t>
+<t tx="leo.20151228231241.2"></t>
+<t tx="leo.20151228231241.3">(uncached) amd.20150915211351.7
+Diff...
+  &lt;!-- 以下為投影片 --&gt;
+  &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+  &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+  &lt;section&gt;
+- &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+      &lt;h2&gt;四設計二乙&lt;/h2&gt;
+      &lt;p&gt;40323248 楊承儒 &lt;br&gt;9月24日&lt;/p&gt;		
+  &lt;/section&gt;
+  	
+</t>
+<t tx="leo.20151228231241.4">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323248 楊承儒 &lt;br&gt;9月24日&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151228231241.5">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323248 楊承儒 &lt;br&gt;9月24日&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151228231241.6">(uncached) amd.20150915211351.12
+Diff...
+  &lt;section&gt;
+      &lt;h2&gt;自評70分&lt;/h2&gt;
+      &lt;p&gt;修改作業時，遇到許多狀況，修改許久還是沒有改善問題，經過跟同學們一番討論，才能排除許多問題原因，像是遲遲無法推上去分支，遠端網頁無法顯示之類的，一年級上的python就覺得英文很重要，應該是說不論是課堂上，還是日常生活上，學會第二語言是重要的，還有要完全瞭解整個步驟，如何創分支，如何利用Leo Editor更改架網頁，如何SciTE 文字編輯器, 經由python.properties 設定, 可以在編輯器中執行簡單的 Python 3 程式等等，才能知道自己在做些什麼，不然只是一步錯，步步錯。&lt;/p&gt;
+- =======
+-     &lt;h1&gt;有關我的作業&lt;/h1&gt;
+-     &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+- &lt;/section&gt;
+- 	
+- &lt;section id="hw-task-one"&gt;
+-     &lt;h1&gt;作業任務一&lt;/h1&gt;
+-     &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
+-     &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+- &lt;/section&gt;
+- 				
+- &lt;section&gt;
+-     &lt;h1&gt;第3張投影片&lt;/h1&gt;
+-     &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
+- &gt;&gt;&gt;&gt;&gt;&gt;&gt; d499f2292cc95390aa61f18e6a7fbee68c1a6f00
+      &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+  &lt;/section&gt;
+  				
+</t>
+<t tx="leo.20151228231241.7">&lt;section&gt;
+    &lt;h2&gt;自評70分&lt;/h2&gt;
+    &lt;p&gt;修改作業時，遇到許多狀況，修改許久還是沒有改善問題，經過跟同學們一番討論，才能排除許多問題原因，像是遲遲無法推上去分支，遠端網頁無法顯示之類的，一年級上的python就覺得英文很重要，應該是說不論是課堂上，還是日常生活上，學會第二語言是重要的，還有要完全瞭解整個步驟，如何創分支，如何利用Leo Editor更改架網頁，如何SciTE 文字編輯器, 經由python.properties 設定, 可以在編輯器中執行簡單的 Python 3 程式等等，才能知道自己在做些什麼，不然只是一步錯，步步錯。&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151228231241.8">&lt;section&gt;
+    &lt;h2&gt;自評70分&lt;/h2&gt;
+    &lt;p&gt;修改作業時，遇到許多狀況，修改許久還是沒有改善問題，經過跟同學們一番討論，才能排除許多問題原因，像是遲遲無法推上去分支，遠端網頁無法顯示之類的，一年級上的python就覺得英文很重要，應該是說不論是課堂上，還是日常生活上，學會第二語言是重要的，還有要完全瞭解整個步驟，如何創分支，如何利用Leo Editor更改架網頁，如何SciTE 文字編輯器, 經由python.properties 設定, 可以在編輯器中執行簡單的 Python 3 程式等等，才能知道自己在做些什麼，不然只是一步錯，步步錯。&lt;/p&gt;
+=======
+    &lt;h1&gt;有關我的作業&lt;/h1&gt;
+    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+&lt;/section&gt;
+	
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業任務一&lt;/h1&gt;
+    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+&lt;/section&gt;
+				
+&lt;section&gt;
+    &lt;h1&gt;第3張投影片&lt;/h1&gt;
+    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; d499f2292cc95390aa61f18e6a7fbee68c1a6f00
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
 				
 </t>
 </tnodes>
