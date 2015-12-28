@@ -10,6 +10,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
+<<<<<<< HEAD
 <v t="amd.20150913232631.1" a="E"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
@@ -69,6 +70,29 @@
 </v>
 </v>
 </v>
+=======
+<v t="amd.20150913232631.1"><vh>@settings</vh>
+<v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
+<v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
+</v>
+<v t="amd.20150919102739.1"><vh>專案架構</vh>
+<v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
+<v t="amd.20151007224830.1"><vh>Jupyter 安裝與執行</vh></v>
+<v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
+</v>
+<v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh>
+<v t="amd.20151021120245.1"><vh>@button admin pelican</vh></v>
+<v t="amd.20150919124128.1"><vh>@button user pelican</vh></v>
+<v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
+<v t="amd.20151006130205.1"><vh>@edit publishconf.py</vh></v>
+<v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
+<v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
+<v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
+</v>
+</v>
+</v>
+<v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh>
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 <v t="amd.20150915155634.1"><vh>@clean cadpaw1.html</vh>
 <v t="amd.20150915155634.2" a="E"><vh>html 標註</vh>
 <v t="amd.20150915155634.3" a="E"><vh>head</vh>
@@ -76,7 +100,11 @@
 <v t="amd.20150915155634.5"><vh>meta - 說明</vh></v>
 <v t="amd.20150915155634.7"><vh>script - css 與 pdf 列印</vh></v>
 </v>
+<<<<<<< HEAD
 <v t="amd.20150915155634.8"><vh>body</vh>
+=======
+<v t="amd.20150915155634.8" a="E"><vh>body</vh>
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 <v t="amd.20150915155634.9" a="E"><vh>div - reveal</vh>
 <v t="amd.20150915155634.10" a="E"><vh>div - slides</vh>
 <v t="amd.20150915155634.11"><vh>h1 - 課程說明</vh></v>
@@ -269,6 +297,34 @@
 </v>
 </v>
 </v>
+<<<<<<< HEAD
+=======
+<v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
+<v t="amd.20150913233943.2" a="E"><vh>html</vh>
+<v t="amd.20150913233943.3" a="E"><vh>head</vh>
+<v t="amd.20150913233943.4"><vh>title</vh></v>
+</v>
+<v t="amd.20150913233943.5" a="E"><vh>body</vh>
+<v t="amd.20150913233943.6" a="E"><vh>div</vh>
+<v t="amd.20150913233943.7" a="E"><vh>div</vh>
+<v t="amd.20150913234947.1"><vh>title page</vh>
+<v t="amd.20150913235225.1"><vh>標題頁下的子頁</vh></v>
+</v>
+<v t="amd.20150913235034.1"><vh>本日要點</vh></v>
+<v t="amd.20150914000138.1"><vh>Anaconda Python</vh></v>
+<v t="amd.20150914000332.1" a="E"><vh>設計的表達方式</vh>
+<v t="amd.20150914000332.2"><vh>協同模式下的網際雲端內容呈現</vh></v>
+</v>
+<v t="amd.20150913235123.1"><vh>結論</vh></v>
+</v>
+</v>
+<v t="amd.20150913233943.81"><vh>script</vh></v>
+<v t="amd.20150913233943.82"><vh>script</vh></v>
+<v t="amd.20150913233943.83"><vh>script</vh></v>
+</v>
+</v>
+</v>
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 <v t="ibm.20150918175403.1"><vh>@clean cpw1.html</vh>
 <v t="ibm.20150918175403.2"><vh>檔案說明</vh></v>
 <v t="ibm.20150918175403.3" a="E"><vh>html 標註</vh>
@@ -302,6 +358,7 @@
 </v>
 </v>
 </v>
+<<<<<<< HEAD
 <v t=".20151011210446.1"><vh>@clean simplest2.html</vh>
 <v t=".20151011210446.2"><vh>檔案說明</vh></v>
 <v t=".20151011210446.3" a="E"><vh>html 標註</vh>
@@ -483,34 +540,83 @@
 <v t="amd.20150915170743.74"><vh>code</vh></v>
 </v>
 <v t="amd.20150915170743.75" a="E"><vh>h2 - 內含程式碼頁面</vh>
+=======
+<v t="amd.20150915170743.1"><vh>@clean v31ref.html</vh>
+<v t="amd.20150915170743.2" a="E"><vh>html 標註</vh>
+<v t="amd.20150915170743.3"><vh>head</vh></v>
+<v t="amd.20150915170743.7" a="E"><vh>body</vh>
+<v t="amd.20150915170743.9" a="E"><vh>div - reveal and slides</vh>
+<v t="amd.20150915170743.10"><vh>一般單頁加上 anchor</vh></v>
+<v t="amd.20150915170743.11"><vh>一般單頁</vh></v>
+<v t="amd.20150915170743.12" a="E"><vh>垂直有下屬頁</vh>
+<v t="amd.20150915170743.13"><vh>下屬頁之一</vh></v>
+<v t="amd.20150915170743.14"><vh>下屬頁之二</vh></v>
+<v t="amd.20150915170743.15"><vh>下屬頁之三</vh></v>
+</v>
+<v t="amd.20150915170743.16"><vh>一般頁面加上跳頁 anchor</vh></v>
+<v t="amd.20150915170743.19"><vh>markdown 頁面</vh></v>
+<v t="amd.20150915170743.20" a="E"><vh>逐一出現項目頁面</vh>
+<v t="amd.20150915170743.21"><vh>Fragement 主頁面</vh></v>
+<v t="amd.20150915170743.22" a="E"><vh>垂直之下屬頁面</vh>
+<v t="amd.20150915170743.23"><vh>標題</vh></v>
+<v t="amd.20150915170743.24"><vh>一般項目</vh></v>
+<v t="amd.20150915170743.25"><vh>逐一跳出項目 grow</vh></v>
+<v t="amd.20150915170743.26"><vh>逐一跳出項目 shrink</vh></v>
+<v t="amd.20150915170743.27"><vh>逐一跳出項目 fade-out</vh></v>
+<v t="amd.20150915170743.28"><vh>逐一跳出項目 cruuent-visible</vh></v>
+<v t="amd.20150915170743.29"><vh>逐一跳出項目 highlight-red</vh></v>
+<v t="amd.20150915170743.30"><vh>逐一跳出項目 highlight-blue</vh></v>
+</v>
+</v>
+<v t="amd.20150915170743.59"><vh>背景填圖頁面</vh></v>
+<v t="amd.20150915170743.75" a="E"><vh>內含程式碼頁面</vh>
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 <v t="amd.20150915170743.76" a="E"><vh>pre</vh>
 <v t="amd.20150915170743.77"><vh>code</vh></v>
 </v>
 <v t="amd.20150915170743.78"><vh>p</vh></v>
 </v>
+<<<<<<< HEAD
 <v t="amd.20150915170743.79"><vh>h2</vh></v>
 <v t="amd.20150915170743.80" a="E"><vh>ul</vh>
+=======
+<v t="amd.20150915170743.80" a="E"><vh>ul 資料表列</vh>
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 <v t="amd.20150915170743.81"><vh>li</vh></v>
 <v t="amd.20150915170743.82"><vh>li</vh></v>
 <v t="amd.20150915170743.83"><vh>li</vh></v>
 <v t="amd.20150915170743.84"><vh>li</vh></v>
 </v>
+<<<<<<< HEAD
 <v t="amd.20150915170743.85"><vh>h2</vh></v>
 <v t="amd.20150915170743.86"><vh>ol</vh>
+=======
+<v t="amd.20150915170743.86" a="E"><vh>ol 資料表列</vh>
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 <v t="amd.20150915170743.87"><vh>li</vh></v>
 <v t="amd.20150915170743.88"><vh>li</vh></v>
 <v t="amd.20150915170743.89"><vh>li</vh></v>
 </v>
+<<<<<<< HEAD
 <v t="amd.20150915170743.90"><vh>h2 - 表格頁面</vh></v>
 <v t="amd.20150915170743.91" a="E"><vh>table</vh>
 <v t="amd.20150915170743.92"><vh>thead</vh>
 <v t="amd.20150915170743.93"><vh>tr</vh>
+=======
+<v t="amd.20150915170743.91" a="E"><vh>表格頁面</vh>
+<v t="amd.20150915170743.92" a="E"><vh>thead</vh>
+<v t="amd.20150915170743.93" a="E"><vh>tr</vh>
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 <v t="amd.20150915170743.94"><vh>th</vh></v>
 <v t="amd.20150915170743.95"><vh>th</vh></v>
 <v t="amd.20150915170743.96"><vh>th</vh></v>
 </v>
 </v>
+<<<<<<< HEAD
 <v t="amd.20150915170743.97"><vh>tbody</vh>
+=======
+<v t="amd.20150915170743.97" a="E"><vh>tbody</vh>
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 <v t="amd.20150915170743.98"><vh>tr</vh>
 <v t="amd.20150915170743.99"><vh>td</vh></v>
 <v t="amd.20150915170743.100"><vh>td</vh></v>
@@ -528,6 +634,7 @@
 </v>
 </v>
 </v>
+<<<<<<< HEAD
 <v t="amd.20150915170743.110"><vh>h2</vh></v>
 <v t="amd.20150915170743.111"><vh>p</vh>
 <v t="amd.20150915170743.112"><vh>q</vh></v>
@@ -563,6 +670,13 @@
 </v>
 <v t="amd.20150915170743.135"><vh>h2 按下 b 或 . 可以 black 畫面</vh></v>
 <v t="amd.20150915170743.136"><vh>p</vh></v>
+=======
+<v t="amd.20150915170743.111" a="E"><vh>Clever Quotes</vh>
+<v t="amd.20150915170743.112"><vh>q</vh></v>
+<v t="amd.20150915170743.113"><vh>blockquote</vh></v>
+</v>
+<v t="amd.20150915170743.135"><vh>h2 按下 b 或 . 可以 black 畫面</vh></v>
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 <v t="amd.20150915170743.137" a="E"><vh>h2 unordered list 頁面</vh>
 <v t="amd.20150915170743.138"><vh>li</vh>
 <v t="amd.20150915170743.139"><vh>a</vh></v>
@@ -580,6 +694,7 @@
 </v>
 <v t="amd.20150915170743.147"><vh>結束單頁</vh></v>
 </v>
+<<<<<<< HEAD
 </v>
 <v t="amd.20150915170743.148"><vh>script</vh></v>
 <v t="amd.20150915170743.149"><vh>script</vh></v>
@@ -591,10 +706,133 @@
 <v t="40323248.20150923211947.3"><vh>Recovered node "html 標註" from @clean simplest.html</vh>
 <v t="40323248.20150923211947.4"><vh>old:html 標註</vh></v>
 <v t="40323248.20150923211947.5"><vh>new:html 標註</vh></v>
+=======
+<v t="amd.20150915170743.148"><vh>script</vh></v>
+</v>
+</v>
+</v>
+</v>
+<v t="amd.20151021113722.1"><vh>@path plugin</vh>
+<v t="amd.20151021113731.1" a="E"><vh>@path liquid_tags</vh>
+<v t="amd.20151021113745.1"><vh>@edit notebook.py</vh></v>
+</v>
+</v>
+<v t="amd.20151021114454.1" a="E"><vh>@path user</vh>
+<v t="amd.20151021114529.1"><vh>各組員必須自行建立 以下節點</vh></v>
+<v t="amd.20151021114504.1"><vh>@path 9999</vh>
+<v t="amd.20151021114639.1"><vh>@edit 9999_cp_w1_p.html</vh></v>
+<v t="amd.20151021114516.1"><vh>@path pelican</vh>
+<v t="amd.20151021114727.1"><vh>@edit publishconf.py</vh></v>
+<v t="amd.20151021114712.1" a="E"><vh>@path content</vh>
+<v t="amd.20151021114905.1"><vh>@edit 9999_cp_w1.md</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151116114353.1"><vh>@path 40323248</vh>
+<v t="leo.20151116114353.2"><vh>以下為投影片 ------------</vh></v>
+<v t="leo.20151116114353.3"><vh>@clean 40323248_cp_w2.html</vh>
+<v t="leo.20151116114353.4"><vh>檔案說明</vh></v>
+<v t="leo.20151116114353.5"><vh>html 標註</vh>
+<v t="leo.20151116114353.6"><vh>body 標註</vh>
+<v t="leo.20151116114353.7"><vh>div class="reveal"</vh>
+<v t="leo.20151116114353.8"><vh>div class="slides"</vh>
+<v t="leo.20151116114353.9"><vh>標題</vh></v>
+<v t="leo.20151116114353.10"><vh>作業任務一</vh></v>
+<v t="leo.20151116114353.11"><vh>自評</vh></v>
+</v>
+</v>
+<v t="leo.20151116114353.12"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151116114353.13"><vh>@clean 40323248_cp_w4.html</vh>
+<v t="leo.20151116114353.14"><vh>檔案說明</vh></v>
+<v t="leo.20151116114353.15"><vh>html 標註</vh>
+<v t="leo.20151116114353.16"><vh>body 標註</vh>
+<v t="leo.20151116114353.17"><vh>div class="reveal"</vh>
+<v t="leo.20151116114353.18"><vh>div class="slides"</vh>
+<v t="leo.20151116114353.19"><vh>標題</vh></v>
+<v t="leo.20151116114353.20"><vh>作業任務一</vh></v>
+<v t="leo.20151116114353.21"><vh>自評</vh></v>
+</v>
+</v>
+<v t="leo.20151116114353.22"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151116114353.23"><vh>@clean 40323248_cp_w5.html</vh>
+<v t="leo.20151116114353.24"><vh>檔案說明</vh></v>
+<v t="leo.20151116114353.25"><vh>html 標註</vh>
+<v t="leo.20151116114353.26"><vh>body 標註</vh>
+<v t="leo.20151116114353.27"><vh>div class="reveal"</vh>
+<v t="leo.20151116114353.28"><vh>div class="slides"</vh>
+<v t="leo.20151116114353.29"><vh>標題</vh></v>
+<v t="leo.20151116114353.30"><vh>作業任務一</vh></v>
+<v t="leo.20151116114353.31"><vh>自評</vh></v>
+</v>
+</v>
+<v t="leo.20151116114353.32"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151116114353.33"><vh>@clean 40323248_cp_w6.html</vh>
+<v t="leo.20151116114353.34"><vh>檔案說明</vh></v>
+<v t="leo.20151116114353.35"><vh>html 標註</vh>
+<v t="leo.20151116114353.36"><vh>body 標註</vh>
+<v t="leo.20151116114353.37"><vh>div class="reveal"</vh>
+<v t="leo.20151116114353.38"><vh>div class="slides"</vh>
+<v t="leo.20151116114353.39"><vh>標題</vh></v>
+<v t="leo.20151116114353.40"><vh>作業任務一</vh></v>
+<v t="leo.20151116114353.41"><vh>自評</vh></v>
+</v>
+</v>
+<v t="leo.20151116114353.42"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151116114353.43"><vh>@clean 40323248_cp_w8.html</vh>
+<v t="leo.20151116114353.44"><vh>檔案說明</vh></v>
+<v t="leo.20151116114353.45"><vh>html 標註</vh>
+<v t="leo.20151116114353.46"><vh>body 標註</vh>
+<v t="leo.20151116114353.47"><vh>div class="reveal"</vh>
+<v t="leo.20151116114353.48"><vh>div class="slides"</vh>
+<v t="leo.20151116114353.49"><vh>標題</vh></v>
+<v t="leo.20151116114353.50"><vh>作業任務一</vh></v>
+<v t="leo.20151116114353.51"><vh>自評</vh></v>
+<v t="leo.20151116114353.52"><vh>標題二</vh></v>
+<v t="leo.20151116114353.53"><vh>作業任務二</vh></v>
+<v t="leo.20151116114353.54"><vh>自評</vh></v>
+<v t="leo.20151116114353.55"><vh>標題三</vh></v>
+<v t="leo.20151116114353.56"><vh>作業任務三</vh></v>
+<v t="leo.20151116114353.57"><vh>自評</vh></v>
+<v t="leo.20151116114353.58"><vh>標題四</vh></v>
+<v t="leo.20151116114353.59"><vh>作業任務四</vh></v>
+<v t="leo.20151116114353.60"><vh>自評</vh></v>
+</v>
+</v>
+<v t="leo.20151116114353.61"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151116114353.62"><vh>@path pelican</vh>
+<v t="leo.20151116114353.63"><vh>以下為設定檔 ------------</vh></v>
+<v t="leo.20151116114353.64"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20151116114353.65"><vh>@path content</vh>
+<v t="leo.20151116114353.66"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20151116114353.67"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="leo.20151116114353.68"><vh>@edit 40323248_cp_w2.md</vh></v>
+<v t="leo.20151116114353.69"><vh>@edit 40323248_cp_w4.md</vh></v>
+<v t="leo.20151116114353.70"><vh>@edit 40323248_cp_w5.md</vh></v>
+<v t="leo.20151116114353.71"><vh>@edit 40323248_cp_w6.md</vh></v>
+<v t="leo.20151116114353.72"><vh>@edit 40323248_cp_w8.md</vh></v>
+</v>
+</v>
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 </v>
 </v>
 </vnodes>
 <tnodes>
+<<<<<<< HEAD
 <t tx=".20151011210446.1">@language xml
 @tabwidth -4
 @others
@@ -718,6 +956,8 @@ Diff...
 &lt;/head&gt;
 @others
 </t>
+=======
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -874,12 +1114,15 @@ vertical: body pane on the botton</t>
 <t tx="amd.20150914000332.2">&lt;section&gt;
 協同模式下的網際雲端內容呈現
 &lt;/section&gt;</t>
+<<<<<<< HEAD
 <t tx="amd.20150915153206.1">2015.09.15
 
 將 2014 的 index.html 與 cadpbw1.html 與 2015 最新的 reveal 框架檔案合併
 此後將以 v31ref.html 中的語法為主
 
 </t>
+=======
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 <t tx="amd.20150915155634.1">@language xml
 @tabwidth -4
 @others
@@ -1519,7 +1762,11 @@ This slide has fragments which are also stepped through in the notes window.
 
 </t>
 <t tx="amd.20150915170743.10">&lt;section&gt;
+<<<<<<< HEAD
         &lt;h1&gt;Reveal.js 使用說明&lt;/h1&gt;
+=======
+    &lt;h1&gt;Reveal.js 使用說明&lt;/h1&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
     &lt;h3&gt;The HTML Presentation Framework 框架&lt;/h3&gt;
     &lt;p&gt;
     &lt;small&gt;
@@ -1562,6 +1809,7 @@ reveal.js enables you to create beautiful interactive slide decks using HTML. Th
     &lt;/p&gt;
 &lt;/section&gt;
 					</t>
+<<<<<<< HEAD
 <t tx="amd.20150915170743.110">&lt;section&gt;
 &lt;h2&gt;Clever Quotes&lt;/h2&gt;
 					</t>
@@ -1571,12 +1819,23 @@ reveal.js enables you to create beautiful interactive slide decks using HTML. Th
 					</t>
 <t tx="amd.20150915170743.112">
 These guys come in two forms, inline: &lt;q cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;
+=======
+<t tx="amd.20150915170743.111">&lt;section&gt;
+&lt;h2&gt;Clever Quotes&lt;/h2&gt;
+    &lt;p&gt;
+    @others
+    &lt;/p&gt;
+&lt;/section&gt;
+					</t>
+<t tx="amd.20150915170743.112">These guys come in two forms, inline: &lt;q cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 &amp;ldquo;The nice thing about standards is that there are so many to choose from&amp;rdquo;&lt;/q&gt; and block:
 </t>
 <t tx="amd.20150915170743.113">&lt;blockquote cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;
 						&amp;ldquo;For years there has been a theory that millions of monkeys typing at random on millions of typewriters would
 						reproduce the entire works of Shakespeare. The Internet has proven this theory to be untrue.&amp;rdquo;
 &lt;/blockquote&gt;
+<<<<<<< HEAD
 &lt;/section&gt;
 					</t>
 <t tx="amd.20150915170743.114">&lt;section&gt;
@@ -1602,10 +1861,17 @@ You can link between slides internally,
 					</t>
 <t tx="amd.20150915170743.119">There's a &lt;a href="https://github.com/hakimel/reveal.js#speaker-notes"&gt;speaker view&lt;/a&gt;. It includes a timer, preview of the upcoming slide as well as your speaker notes.</t>
 <t tx="amd.20150915170743.12">&lt;section&gt;
+=======
+					</t>
+<t tx="amd.20150915170743.12">&lt;section&gt;
+&lt;h1&gt;以下為垂直頁面&lt;/h1&gt;
+以下為垂直頁
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 @others
 &lt;/section&gt;
 
 						</t>
+<<<<<<< HEAD
 <t tx="amd.20150915170743.120">&lt;p&gt;
 @others
 &lt;/p&gt;
@@ -1682,6 +1948,26 @@ Press B or . on your keyboard to pause the presentation. This is helpful when yo
 
 				
 					</t>
+=======
+<t tx="amd.20150915170743.13">&lt;section&gt;
+    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
+    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
+    &lt;p&gt;
+    Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.
+    &lt;/p&gt;
+    &lt;br&gt;
+    &lt;a href="#" class="navigate-down"&gt;
+    &lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow"&gt;
+    &lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="amd.20150915170743.135">&lt;section&gt;
+    &lt;h2&gt;Take a Moment&lt;/h2&gt;
+    &lt;p&gt;
+    Press B or . on your keyboard to pause the presentation. This is helpful when you're on stage and want to take distracting slides off the screen.
+    &lt;/p&gt;
+&lt;/section&gt;
+					</t>
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 <t tx="amd.20150915170743.137">&lt;section&gt;
 &lt;h2&gt;Much more&lt;/h2&gt;
     &lt;ul&gt;
@@ -1718,12 +2004,45 @@ Press B or . on your keyboard to pause the presentation. This is helpful when yo
 </t>
 <t tx="amd.20150915170743.147">&lt;section style="text-align: left;"&gt;
 &lt;h1&gt;THE END&lt;/h1&gt;
+<<<<<<< HEAD
 &lt;section&gt;
 					</t>
 <t tx="amd.20150915170743.148">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 		</t>
 <t tx="amd.20150915170743.149">&lt;script src="js/reveal.js"&gt;&lt;/script&gt;
 
+=======
+&lt;/section&gt;
+					</t>
+<t tx="amd.20150915170743.148">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // Full list of configuration options available at:
+    // https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+
+        transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+        // Optional reveal.js plugins
+        dependencies: [
+            { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+            { src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+            { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+            { src: 'plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+            { src: 'plugin/zoom-js/zoom.js', async: true },
+            { src: 'plugin/notes/notes.js', async: true }
+        ]
+    });
+&lt;/script&gt;
+
+	
+
+		
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 		</t>
 <t tx="amd.20150915170743.15">&lt;section&gt;
     &lt;h2&gt;Basement Level 2&lt;/h2&gt;
@@ -1734,6 +2053,7 @@ Press B or . on your keyboard to pause the presentation. This is helpful when yo
     &lt;/a&gt;
 &lt;/section&gt;
 						</t>
+<<<<<<< HEAD
 <t tx="amd.20150915170743.150">&lt;script&gt;
 
 			// Full list of configuration options available at:
@@ -1760,6 +2080,8 @@ Press B or . on your keyboard to pause the presentation. This is helpful when yo
 		&lt;/script&gt;
 
 	</t>
+=======
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 <t tx="amd.20150915170743.16">&lt;section&gt;
     &lt;h2&gt;Slides&lt;/h2&gt;
     &lt;p&gt;
@@ -1767,6 +2089,7 @@ Press B or . on your keyboard to pause the presentation. This is helpful when yo
     &lt;/p&gt;
 &lt;/section&gt;
 					</t>
+<<<<<<< HEAD
 <t tx="amd.20150915170743.17">&lt;section&gt;
     &lt;h2&gt;Point of View&lt;/h2&gt;
     &lt;p&gt;
@@ -1784,6 +2107,8 @@ Press B or . on your keyboard to pause the presentation. This is helpful when yo
     &lt;/p&gt;
 &lt;/section&gt;
 					</t>
+=======
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 <t tx="amd.20150915170743.19">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
         ## Markdown support
@@ -1809,11 +2134,16 @@ Press B or . on your keyboard to pause the presentation. This is helpful when yo
 @others
 &lt;/html&gt;</t>
 <t tx="amd.20150915170743.20">&lt;section&gt;
+<<<<<<< HEAD
+=======
+逐一出現
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
     @others
 &lt;/section&gt;
 
 						</t>
 <t tx="amd.20150915170743.21">&lt;section id="fragments"&gt;
+<<<<<<< HEAD
 &lt;h2&gt;Fragments&lt;/h2&gt;
 &lt;p&gt;Hit the next arrow...&lt;/p&gt;
 &lt;p class="fragment"&gt;... to step through ...&lt;/p&gt;
@@ -1826,6 +2156,20 @@ Press B or . on your keyboard to pause the presentation. This is helpful when yo
 &lt;aside class="notes"&gt;
 This slide has fragments which are also stepped through in the notes window.
 &lt;/aside&gt;
+=======
+    &lt;h2&gt;Fragments&lt;/h2&gt;
+    &lt;p&gt;Hit the next arrow...&lt;/p&gt;
+    &lt;p class="fragment"&gt;... to step through ...&lt;/p&gt;
+    &lt;p&gt;
+        &lt;span class="fragment"&gt;... a&lt;/span&gt; 
+        &lt;span class="fragment"&gt;fragmented&lt;/span&gt;
+        &lt;span class="fragment"&gt;slide.&lt;/span&gt;
+    &lt;/p&gt;
+    
+    &lt;aside class="notes"&gt;
+    This slide has fragments which are also stepped through in the notes window.
+    &lt;/aside&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 &lt;/section&gt;</t>
 <t tx="amd.20150915170743.22">&lt;section&gt;
 @others
@@ -1847,6 +2191,7 @@ This slide has fragments which are also stepped through in the notes window.
 <t tx="amd.20150915170743.29">&lt;p class="fragment highlight-red"&gt;highlight-red&lt;/p&gt;
 						</t>
 <t tx="amd.20150915170743.3">&lt;head&gt;
+<<<<<<< HEAD
 @others
 &lt;/head&gt;
 
@@ -1953,6 +2298,15 @@ Set &lt;code&gt;data-background="#dddddd"&lt;/code&gt; on a slide to change the 
 &lt;h2&gt;Tiled Backgrounds&lt;/h2&gt;
 						</t>
 <t tx="amd.20150915170743.6">&lt;meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui"&gt;
+=======
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;檔案標題&lt;/title&gt;
+&lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
+&lt;meta name="author" content="作者"&gt;
+&lt;meta name="apple-mobile-web-app-capable" content="yes" /&gt;
+&lt;meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" /&gt;
+&lt;meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui"&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 
     &lt;link rel="stylesheet" href="css/reveal.css"&gt;
     &lt;link rel="stylesheet" href="css/theme/black.css" id="theme"&gt;
@@ -1971,6 +2325,7 @@ Set &lt;code&gt;data-background="#dddddd"&lt;/code&gt; on a slide to change the 
 
     &lt;!--[if lt IE 9]&gt;
     &lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+<<<<<<< HEAD
     &lt;![endif]--&gt;
 	</t>
 <t tx="amd.20150915170743.60">&lt;pre&gt;
@@ -2013,10 +2368,30 @@ Set &lt;code&gt;data-background="#dddddd"&lt;/code&gt; on a slide to change the 
 
 				&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
 					</t>
+=======
+    &lt;![endif]--&gt;	
+&lt;/head&gt;
+
+</t>
+<t tx="amd.20150915170743.30">&lt;p class="fragment highlight-blue"&gt;highlight-blue&lt;/p&gt;
+
+
+				
+					</t>
+<t tx="amd.20150915170743.59">&lt;section data-background="https://s3.amazonaws.com/hakim-static/reveal-js/image-placeholder.png" data-background-repeat="repeat" data-background-size="100px"&gt;
+&lt;h2&gt;Tiled Backgrounds&lt;/h2&gt;
+    &lt;pre&gt;
+    &lt;code style="word-wrap: break-word;"&gt;&amp;lt;section data-background="image.png" data-background-repeat="repeat" data-background-size="100px"&amp;gt;
+    &lt;/code&gt;
+    &lt;/pre&gt;
+&lt;/section&gt;
+						</t>
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 <t tx="amd.20150915170743.7">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
+<<<<<<< HEAD
 <t tx="amd.20150915170743.70">&lt;code&gt;Reveal.configure({ backgroundTransition: 'zoom' })&lt;/code&gt;</t>
 <t tx="amd.20150915170743.71">&lt;h2&gt;Background Transitions&lt;/h2&gt;
 					</t>
@@ -2032,6 +2407,8 @@ You can override background transitions per-slide.
 
 					</t>
 <t tx="amd.20150915170743.74">&lt;code style="word-wrap: break-word;"&gt;&amp;lt;section data-background-transition="zoom"&amp;gt;&lt;/code&gt;</t>
+=======
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 <t tx="amd.20150915170743.75">&lt;section&gt;
     &lt;h2&gt;Pretty Code&lt;/h2&gt;
     @others
@@ -2065,6 +2442,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 
 
 					</t>
+<<<<<<< HEAD
 <t tx="amd.20150915170743.79">&lt;section&gt;
 &lt;h2&gt;Marvelous List&lt;/h2&gt;
 					</t>
@@ -2080,6 +2458,16 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 					</t>
 <t tx="amd.20150915170743.81">
 &lt;li&gt;No order here&lt;/li&gt;
+=======
+<t tx="amd.20150915170743.80">&lt;section&gt;
+&lt;h2&gt;Marvelous List&lt;/h2&gt;
+    &lt;ul&gt;
+    @others
+    &lt;/ul&gt;
+&lt;/section&gt;
+					</t>
+<t tx="amd.20150915170743.81">&lt;li&gt;No order here&lt;/li&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 </t>
 <t tx="amd.20150915170743.82">&lt;li&gt;Or here&lt;/li&gt;
 						</t>
@@ -2087,6 +2475,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 						</t>
 <t tx="amd.20150915170743.84">&lt;li&gt;Or here&lt;/li&gt;
 					</t>
+<<<<<<< HEAD
 <t tx="amd.20150915170743.85">&lt;section&gt;
 &lt;h2&gt;Fantastic Ordered List&lt;/h2&gt;
 					</t>
@@ -2098,11 +2487,23 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 					</t>
 <t tx="amd.20150915170743.87">
 &lt;li&gt;One is smaller than...&lt;/li&gt;
+=======
+<t tx="amd.20150915170743.86">&lt;section&gt;
+&lt;h2&gt;Fantastic Ordered List&lt;/h2&gt;
+    &lt;ol&gt;
+    @others
+    &lt;/ol&gt;
+&lt;/section&gt;
+
+					</t>
+<t tx="amd.20150915170743.87">&lt;li&gt;One is smaller than...&lt;/li&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 </t>
 <t tx="amd.20150915170743.88">&lt;li&gt;Two is smaller than...&lt;/li&gt;
 						</t>
 <t tx="amd.20150915170743.89">&lt;li&gt;Three!&lt;/li&gt;
 					</t>
+<<<<<<< HEAD
 <t tx="amd.20150915170743.9">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
 &lt;div class="slides"&gt;
 @others
@@ -2115,6 +2516,23 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 <t tx="amd.20150915170743.91">&lt;table&gt;
 @others
 &lt;/table&gt;
+=======
+<t tx="amd.20150915170743.9">&lt;div class="reveal"&gt;
+    &lt;!-- Any section element inside of this container is displayed as a slide --&gt;
+    &lt;div class="slides"&gt;
+    @others
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+</t>
+<t tx="amd.20150915170743.91">&lt;section&gt;
+&lt;h2&gt;Tabular Tables&lt;/h2&gt;
+    &lt;table&gt;
+    @others
+    &lt;/table&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 &lt;/section&gt;
 
 
@@ -2123,6 +2541,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 &lt;/thead&gt;
 </t>
+<<<<<<< HEAD
 <t tx="amd.20150915170743.93">
 &lt;tr&gt;
 @others
@@ -2130,6 +2549,13 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 </t>
 <t tx="amd.20150915170743.94">
 &lt;th&gt;Item&lt;/th&gt;
+=======
+<t tx="amd.20150915170743.93">&lt;tr&gt;
+@others
+&lt;/tr&gt;
+</t>
+<t tx="amd.20150915170743.94">&lt;th&gt;Item&lt;/th&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 </t>
 <t tx="amd.20150915170743.95">&lt;th&gt;Value&lt;/th&gt;
 								</t>
@@ -2213,8 +2639,13 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
+<<<<<<< HEAD
     &lt;h2&gt;自評70分&lt;/h2&gt;
     &lt;p&gt;修改作業時，遇到許多狀況，修改許久還是沒有改善問題，經過跟同學們一番討論，才能排除許多問題原因，像是遲遲無法推上去分支，遠端網頁無法顯示之類的，一年級上的python就覺得英文很重要，應該是說不論是課堂上，還是日常生活上，學會第二語言是重要的，還有要完全瞭解整個步驟，如何創分支，如何利用Leo Editor更改架網頁，如何SciTE 文字編輯器, 經由python.properties 設定, 可以在編輯器中執行簡單的 Python 3 程式等等，才能知道自己在做些什麼，不然只是一步錯，步步錯。&lt;/p&gt;
+=======
+    &lt;h1&gt;第3張投影片&lt;/h1&gt;
+    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;
 				
@@ -2246,16 +2677,27 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
+<<<<<<< HEAD
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
     &lt;p&gt;40323248 楊承儒 &lt;br&gt;9月24日&lt;/p&gt;		
+=======
+    &lt;h1&gt;有關我的作業&lt;/h1&gt;
+    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 &lt;/section&gt;
 	
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
+<<<<<<< HEAD
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;p&gt;第一周:&lt;br&gt;複習git add  git push 操作&lt;br&gt;
     第二周:&lt;br&gt;使用git在github管理個人資料利用Leo Editor 更改 有關於我的作業 ，作業任務，及我的投影片，save後再推至遠端剛開始點開start並沒有Leo&lt;br&gt;要至https://github.com/leo-editor/leo-editor 下載得到目錄之後再把leo檔案傳至Ana3→Lib→site packages 丟start到編輯器修改&lt;br&gt;之後到2015Fall CADP 第2週 下載reveal 在自己github件一個倉儲 建分支 git clone git branch(檢查分支) git checkout gh-pages →git commit -m ""→git push→pip install pelicam Markdown→貼回自己的檔案，推回去，開Leo編輯reveal.leo 改投影片內容&lt;br&gt;完成後存檔 開啟simplest，可以在近端確定自己改的投影片內容，沒問題即在push回去  &lt;/p&gt;
     &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w1.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
+=======
+    &lt;h1&gt;作業任務一&lt;/h1&gt;
+    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 &lt;/section&gt;
 				
 </t>
@@ -2266,6 +2708,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
+<<<<<<< HEAD
 <t tx="amd.20150919102209.1">本專案
 
 利用 Jupyter 產生 IPython notebook, 然後整合入 pelican 網誌
@@ -2288,12 +2731,15 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
     sudo pip3 install pelican Markdown 
 
 安裝 pelican 與 Markdown Python 模組</t>
+=======
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 <t tx="amd.20150919102739.1">主要為 reveal.js 的簡報目錄架構, 其他子目錄為
 
 images - 存放簡報與 pelican 網誌所需要的影像檔案
 
 pelican - 存放 pelican 專案資料檔, 並且設法讓 pelican 所產生的 output 檔案直接存放到上層 reveal.js 根目錄
 
+<<<<<<< HEAD
 notebook - 存放 Jupyter 的 IPython notebook 檔案, 然後再由 pelican 設定, 將內容放入 blog 文章中
 
 </t>
@@ -2308,6 +2754,11 @@ REM echo %thisip%
 REM 啟動 Jupyter
 cd notebook
 start %Disk%:\Anaconda3\python.exe "%Disk%:\Anaconda3\Scripts\ipython-script.py" notebook --ip=%thisip% --certfile=%Disk%:\home\ssl_cert.pem --profile=nbserver</t>
+=======
+content/notebook - 存放 Jupyter 的 IPython notebook 檔案, 然後再由 pelican 設定, 將內容放入 blog 文章中
+
+</t>
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 <t tx="amd.20150919103357.1">打算利用
 
 pelican pelican -o ./../ -s publishconf.py
@@ -2319,6 +2770,7 @@ pelican pelican -o ./../ -s publishconf.py
 將位於專案中 pelican 目錄內的 .md 檔案, 轉為 html 網誌格式, 然後存在 reveal.js 的架構目錄中
 
 也就是 index.html 是由 pelican 控制</t>
+<<<<<<< HEAD
 <t tx="amd.20150919103428.1"></t>
 <t tx="amd.20150919103923.1">home/.ipython/profile_nbserver/ipython_notebook_config.py
 
@@ -2360,14 +2812,41 @@ ip.config.ProfileDir </t>
 <t tx="amd.20150919112415.1">使用 Vimeo</t>
 <t tx="amd.20150919112710.1"></t>
 <t tx="amd.20150919113340.1"></t>
+=======
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 <t tx="amd.20150919113957.1"></t>
 <t tx="amd.20150919114010.1"></t>
 <t tx="amd.20150919120205.1"></t>
 <t tx="amd.20150919124128.1">@language python
 import os
+<<<<<<< HEAD
 os.system('''pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-bootstrap3
 ''')
 g.es("pelican 執行完畢")</t>
+=======
+os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t ../../theme/pelican-octopress")
+g.es("user pelican 執行完畢")</t>
+<t tx="amd.20151006113136.1"></t>
+<t tx="amd.20151007224830.1">安裝
+
+sudo pip3 install jupyter
+
+執行
+
+jupyter notebook
+</t>
+<t tx="amd.20151021113722.1"></t>
+<t tx="amd.20151021113731.1"></t>
+<t tx="amd.20151021114454.1"></t>
+<t tx="amd.20151021114504.1"></t>
+<t tx="amd.20151021114516.1"></t>
+<t tx="amd.20151021114529.1"></t>
+<t tx="amd.20151021114712.1"></t>
+<t tx="amd.20151021120245.1">@language python
+import os
+os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-octopress")
+g.es("admin pelican 執行完畢")</t>
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 <t tx="ibm.20150918175403.1">@language xml
 @tabwidth -4
 @others
@@ -2456,12 +2935,33 @@ g.es("pelican 執行完畢")</t>
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
+<<<<<<< HEAD
 <t tx="leo.20151019111452.1">@language xml
 @tabwidth -4
 @others
 
 </t>
 <t tx="leo.20151019111452.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+=======
+<t tx="leo.20151116114353.1"></t>
+<t tx="leo.20151116114353.10">&lt;section id="hw-task-one"&gt;
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;p&gt;第一周:&lt;br&gt;複習git add  git push 操作&lt;br&gt;
+    第二周:&lt;br&gt;使用git在github管理個人資料利用Leo Editor 更改 有關於我的作業 ，作業任務，及我的投影片，save後再推至遠端剛開始點開start並沒有Leo&lt;br&gt;要至https://github.com/leo-editor/leo-editor 下載得到目錄之後再把leo檔案傳至Ana3→Lib→site packages 丟start到編輯器修改&lt;br&gt;之後到2015Fall CADP 第2週 下載reveal 在自己github件一個倉儲 建分支 git clone git branch(檢查分支) git checkout gh-pages →git commit -m ""→git push→pip install pelicam Markdown→貼回自己的檔案，推回去，開Leo編輯reveal.leo 改投影片內容&lt;br&gt;完成後存檔 開啟simplest，可以在近端確定自己改的投影片內容，沒問題即在push回去  &lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w1.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151116114353.11">&lt;section&gt;
+    &lt;h2&gt;自評70分&lt;/h2&gt;
+    &lt;p&gt;修改作業時，遇到許多狀況，修改許久還是沒有改善問題，經過跟同學們一番討論，才能排除許多問題原因，像是遲遲無法推上去分支，遠端網頁無法顯示之類的，一年級上的python就覺得英文很重要，應該是說不論是課堂上，還是日常生活上，學會第二語言是重要的，還有要完全瞭解整個步驟，如何創分支，如何利用Leo Editor更改架網頁，如何SciTE 文字編輯器, 經由python.properties 設定, 可以在編輯器中執行簡單的 Python 3 程式等等，才能知道自己在做些什麼，不然只是一步錯，步步錯。&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+
+				
+</t>
+<t tx="leo.20151116114353.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -2470,14 +2970,27 @@ g.es("pelican 執行完畢")</t>
 &lt;/script&gt;
 	
 </t>
+<<<<<<< HEAD
 <t tx="leo.20151019111452.2">&lt;!--
+=======
+<t tx="leo.20151116114353.13">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151116114353.14">&lt;!--
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
+<<<<<<< HEAD
 <t tx="leo.20151019111452.3">&lt;!doctype html&gt;
+=======
+<t tx="leo.20151116114353.15">&lt;!doctype html&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -2491,25 +3004,42 @@ g.es("pelican 執行完畢")</t>
 &lt;/head&gt;
 @others
 </t>
+<<<<<<< HEAD
 <t tx="leo.20151019111452.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
 <t tx="leo.20151019111452.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+=======
+<t tx="leo.20151116114353.16">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151116114353.17">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
+<<<<<<< HEAD
 <t tx="leo.20151019111452.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+=======
+<t tx="leo.20151116114353.18">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
+<<<<<<< HEAD
 <t tx="leo.20151019111452.7">&lt;!-- 以下為投影片 --&gt;
+=======
+<t tx="leo.20151116114353.19">&lt;!-- 以下為投影片 --&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
+<<<<<<< HEAD
     &lt;p&gt;40323248 楊承儒 &lt;br&gt;10月19日&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -2534,6 +3064,31 @@ g.es("pelican 執行完畢")</t>
 
 </t>
 <t tx="leo.20151109235754.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+=======
+    &lt;p&gt;40323248 楊承儒 &lt;br&gt;10月11日&lt;/p&gt;		
+&lt;/section&gt;
+	
+    </t>
+<t tx="leo.20151116114353.2"></t>
+<t tx="leo.20151116114353.20">&lt;section id="hw-task-one"&gt;
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;p&gt;cd tmp→git clone 上次所創的倉儲專案網址→cd 專案→ git branch 檢查分支→git checkout gh-pages 移至分頁→之後開啟 readme.md 確認連結是否正確 README→啟動reveal.leo →複製edit 2015 cphww1 跟 simplest →改日期跟名字、標題、iframe src="simplest.html"改simplest2→在切換button pelican content之後按 pelican-content 確認執行完畢→練習solvespace.exe 繪圖→練習後畫好截圖→把圖丟進資料夾images→推回去git add -A →git commit -m "a"→git push origin gh-pages &lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w1.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
+&lt;/section&gt;
+
+				
+</t>
+<t tx="leo.20151116114353.21">&lt;section&gt;
+    &lt;h2&gt;自評85分&lt;/h2&gt;
+    &lt;p&gt;第一次使用solvespace.exe繪圖軟體很不上手，以往的inventor差異極大，經由同學指導，了解大部分的指令步驟，也知道要如何再建一個新的分頁，看了solve space官網的教學步驟  深深認為英文真的非常非常的重要，現在還是無法完整了解，遇到沒見過的單字就卡住，希望我能更深入了解電腦輔助設計!&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+		
+        
+				
+</t>
+<t tx="leo.20151116114353.22">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -2542,14 +3097,27 @@ g.es("pelican 執行完畢")</t>
 &lt;/script&gt;
 	
 </t>
+<<<<<<< HEAD
 <t tx="leo.20151109235754.2">&lt;!--
+=======
+<t tx="leo.20151116114353.23">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151116114353.24">&lt;!--
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
+<<<<<<< HEAD
 <t tx="leo.20151109235754.3">&lt;!doctype html&gt;
+=======
+<t tx="leo.20151116114353.25">&lt;!doctype html&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -2563,25 +3131,42 @@ g.es("pelican 執行完畢")</t>
 &lt;/head&gt;
 @others
 </t>
+<<<<<<< HEAD
 <t tx="leo.20151109235754.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
 <t tx="leo.20151109235754.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+=======
+<t tx="leo.20151116114353.26">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151116114353.27">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
+<<<<<<< HEAD
 <t tx="leo.20151109235754.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+=======
+<t tx="leo.20151116114353.28">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
+<<<<<<< HEAD
 <t tx="leo.20151109235754.7">&lt;!-- 以下為投影片 --&gt;
+=======
+<t tx="leo.20151116114353.29">&lt;!-- 以下為投影片 --&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
+<<<<<<< HEAD
     &lt;p&gt;40323248 楊承儒 &lt;br&gt;11月7日&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -2595,17 +3180,51 @@ g.es("pelican 執行完畢")</t>
 <t tx="leo.20151109235754.9">&lt;section&gt;
     &lt;h2&gt;自評70分&lt;/h2&gt;
     &lt;p&gt; 這週還是多多練習Cero parametric  ,盡量讓它上手,也謝謝同學在我不懂的時候不厭其煩的教我&lt;/p&gt;
+=======
+    &lt;p&gt;40323248 楊承儒 &lt;br&gt;10月19日&lt;/p&gt;		
+&lt;/section&gt;
+	
+    </t>
+<t tx="leo.20151116114353.3">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151116114353.30">&lt;section id="hw-task-one"&gt;
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;p&gt;cd tmp→git clone 上次所創的倉儲專案網址→cd 專案→ git branch 檢查分支→git checkout gh-pages 移至分頁→之後開啟 readme.md 確認連結是否正確 README→啟動reveal.leo →複製edit 2015 cphww1 跟 simplest →改日期跟名字、標題、iframe src="simplest.html"改simplest3→在切換button pelican content之後按 pelican-content 確認執行完畢→練習Creo Parametric 繪製方塊及連接桿→練習時錄製影片→並把影片上傳至vimeo→複製嵌入程式碼→推回去git add -A →git commit -m "a"→git push origin gh-pages &lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w1.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20151116114353.31">&lt;section&gt;
+    &lt;h2&gt;自評80分&lt;/h2&gt;
+    &lt;p&gt;上週使用solvespace.exe繪圖軟體很不上手，以往的inventor差異極大，經由同學指導，了解大部分的指令步驟，這週則是使用Creo Parametric 繪製方塊及連接桿 以及熟悉指令，但跟inventor比Creo Parametric的一些操作指令還是有些不便，還有錄製過程影片的時間還要多加把握 &lt;/p&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;
 		
         
 				
 </t>
+<<<<<<< HEAD
 <t tx="leo.20151109235802.1">@language xml
+=======
+<t tx="leo.20151116114353.32">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151116114353.33">@language xml
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 @tabwidth -4
 @others
 
 </t>
+<<<<<<< HEAD
 <t tx="leo.20151109235802.10">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
@@ -2656,46 +3275,15 @@ g.es("pelican 執行完畢")</t>
 				
 </t>
 <t tx="leo.20151109235802.16">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h2&gt;四設計二乙&lt;/h2&gt;
-    &lt;p&gt;40323248 楊承儒 &lt;br&gt;11月07日&lt;/p&gt;		
-&lt;/section&gt;
-	
-    </t>
-<t tx="leo.20151109235802.17">&lt;section id="hw-task-one"&gt;
-    &lt;h3&gt;筆記&lt;/h3&gt;
-    &lt;p&gt;第五周:&lt;br&gt;複習git add  git push 操作&lt;br&gt; 利用 Leo Editor 摘要重點, 建立個人 Github 課程倉儲 (名稱為 2015cadpb，練習solvespace及cero parametric ,並繪製腳踏車零件&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w1.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
-&lt;/section&gt;
-	
-</t>
-<t tx="leo.20151109235802.18">&lt;section&gt;
-    &lt;h2&gt;自評70分&lt;/h2&gt;
-    &lt;p&gt; 這週還是多多練習Cero parametric  ,盡量讓它上手,也謝謝同學在我不懂的時候不厭其煩的教我&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
-&lt;/section&gt;
-
-				
-</t>
-<t tx="leo.20151109235802.19">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="leo.20151109235802.2">&lt;!--
+=======
+<t tx="leo.20151116114353.34">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="leo.20151109235802.3">&lt;!doctype html&gt;
+<t tx="leo.20151116114353.35">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -2709,124 +3297,75 @@ g.es("pelican 執行完畢")</t>
 &lt;/head&gt;
 @others
 </t>
-<t tx="leo.20151109235802.4">&lt;body&gt;
+<t tx="leo.20151116114353.36">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="leo.20151109235802.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="leo.20151116114353.37">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151109235802.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="leo.20151116114353.38">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151109235802.7">&lt;!-- 以下為投影片 --&gt;
+<t tx="leo.20151116114353.39">&lt;!-- 以下為投影片 --&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
-    &lt;p&gt;40323248 楊承儒 &lt;br&gt;9月24日&lt;/p&gt;		
-&lt;/section&gt;
-	
-    </t>
-<t tx="leo.20151109235802.8">&lt;section id="hw-task-one"&gt;
-    &lt;h3&gt;筆記&lt;/h3&gt;
-    &lt;p&gt;第一周:&lt;br&gt;複習git add  git push 操作&lt;br&gt;
-    第二周:&lt;br&gt;使用git在github管理個人資料利用Leo Editor 更改 有關於我的作業 ，作業任務，及我的投影片，save後再推至遠端剛開始點開start並沒有Leo&lt;br&gt;要至https://github.com/leo-editor/leo-editor 下載得到目錄之後再把leo檔案傳至Ana3→Lib→site packages 丟start到編輯器修改&lt;br&gt;之後到2015Fall CADP 第2週 下載reveal 在自己github件一個倉儲 建分支 git clone git branch(檢查分支) git checkout gh-pages →git commit -m ""→git push→pip install pelicam Markdown→貼回自己的檔案，推回去，開Leo編輯reveal.leo 改投影片內容&lt;br&gt;完成後存檔 開啟simplest，可以在近端確定自己改的投影片內容，沒問題即在push回去  &lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w1.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
-&lt;/section&gt;
-	
-</t>
-<t tx="leo.20151109235802.9">&lt;section&gt;
-    &lt;h2&gt;自評70分&lt;/h2&gt;
-    &lt;p&gt;修改作業時，遇到許多狀況，修改許久還是沒有改善問題，經過跟同學們一番討論，才能排除許多問題原因，像是遲遲無法推上去分支，遠端網頁無法顯示之類的，一年級上的python就覺得英文很重要，應該是說不論是課堂上，還是日常生活上，學會第二語言是重要的，還有要完全瞭解整個步驟，如何創分支，如何利用Leo Editor更改架網頁，如何SciTE 文字編輯器, 經由python.properties 設定, 可以在編輯器中執行簡單的 Python 3 程式等等，才能知道自己在做些什麼，不然只是一步錯，步步錯。&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
-&lt;/section&gt;
-
-				
-</t>
-<t tx="leo.20151228174059.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="leo.20151228174059.10">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h2&gt;四設計二乙&lt;/h2&gt;
-    &lt;p&gt;40323248 楊承儒 &lt;br&gt;10月11日&lt;/p&gt;		
-&lt;/section&gt;
-	
-    </t>
-<t tx="leo.20151228174059.11">&lt;section id="hw-task-one"&gt;
-    &lt;h3&gt;筆記&lt;/h3&gt;
-    &lt;p&gt;第四周:&lt;br&gt;複習git add  git push 操作&lt;br&gt;
-    第四周:&lt;br&gt;cd tmp→git clone 上次所創的倉儲專案網址→cd 專案→ git branch 檢查分支→git checkout gh-pages 移至分頁→之後開啟 readme.md 確認連結是否正確 README→啟動reveal.leo →複製edit 2015 cphww1 跟 simplest →改日期跟名字、標題、iframe src="simplest.html"改simplest2→在切換button pelican content之後按 pelican-content 確認執行完畢→練習solvespace.exe 繪圖→練習後畫好截圖→把圖丟進資料夾images→推回去git add -A →git commit -m "a"→git push origin gh-pages &lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w1.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
-&lt;/section&gt;
-	
-</t>
-<t tx="leo.20151228174059.12">&lt;section&gt;
-    &lt;h2&gt;自評70分&lt;/h2&gt;
-    &lt;p&gt;第一次使用solvespace.exe繪圖軟體很不上手，以往的inventor差異極大，經由同學指導，了解大部分的指令步驟，也知道要如何再建一個新的分頁，看了solve space官網的教學步驟  深深認為英文真的非常非常的重要，現在還是無法完整了解，遇到沒見過的單字就卡住，希望我能更深入了解電腦輔助設計&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
-&lt;/section&gt;
-
-				
-</t>
-<t tx="leo.20151228174059.13">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h2&gt;四設計二乙&lt;/h2&gt;
-    &lt;p&gt;40323248 楊承儒 &lt;br&gt;10月11日&lt;/p&gt;		
-&lt;/section&gt;
-	
-    </t>
-<t tx="leo.20151228174059.14">&lt;section id="hw-task-one"&gt;
-    &lt;h3&gt;筆記&lt;/h3&gt;
-    &lt;p&gt;第五周:&lt;br&gt;複習git add  git push 操作&lt;br&gt;cd tmp→git clone 上次所創的倉儲專案網址→cd 專案→ git branch 檢查分支→git checkout gh-pages 移至分頁→之後開啟 readme.md 確認連結是否正確 README→啟動reveal.leo →複製edit 2015 cphww1 跟 simplest →改日期跟名字、標題、iframe src="simplest.html"改simplest3→在切換button pelican content之後按 pelican-content 確認執行完畢→練習Creo Parametric 繪製方塊及連接桿→練習時錄製影片→並把影片上傳至vimeo→複製嵌入程式碼→推回去git add -A →git commit -m "a"→git push origin gh-pages &lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w1.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
-&lt;/section&gt;
-	
-</t>
-<t tx="leo.20151228174059.15">&lt;section&gt;
-    &lt;h2&gt;自評70分&lt;/h2&gt;
-    &lt;p&gt;上週使用solvespace.exe繪圖軟體很不上手，以往的inventor差異極大，經由同學指導，了解大部分的指令步驟，這週則是使用Creo Parametric 繪製方塊及連接桿 以及熟悉指令，但跟inventor比Creo Parametric的一些操作指令還是有些不便，還有錄製過程影片的時間還要多加把握&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
-&lt;/section&gt;
-
-				
-</t>
-<t tx="leo.20151228174059.16">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+<<<<<<< HEAD
     &lt;p&gt;40323248 楊承儒 &lt;br&gt;11月07日&lt;/p&gt;		
 &lt;/section&gt;
 	
     </t>
-<t tx="leo.20151228174059.17">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151109235802.17">&lt;section id="hw-task-one"&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;p&gt;第五周:&lt;br&gt;複習git add  git push 操作&lt;br&gt; 利用 Leo Editor 摘要重點, 建立個人 Github 課程倉儲 (名稱為 2015cadpb，練習solvespace及cero parametric ,並繪製腳踏車零件&lt;/p&gt;
     &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w1.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151228174059.18">&lt;section&gt;
+<t tx="leo.20151109235802.18">&lt;section&gt;
+=======
+    &lt;p&gt;40323248 楊承儒 &lt;br&gt;11月7日&lt;/p&gt;		
+&lt;/section&gt;
+	
+    </t>
+<t tx="leo.20151116114353.4">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151116114353.40">&lt;section id="hw-task-one"&gt;
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;p&gt; 利用 Leo Editor 摘要重點, 建立個人 Github 課程倉儲 (名稱為 2015cadpb，練習solvespace及cero parametric ,並繪製腳踏車零件 &lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w1.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20151116114353.41">&lt;section&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
     &lt;h2&gt;自評70分&lt;/h2&gt;
     &lt;p&gt; 這週還是多多練習Cero parametric  ,盡量讓它上手,也謝謝同學在我不懂的時候不厭其煩的教我&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;
+<<<<<<< HEAD
 
 				
 </t>
-<t tx="leo.20151228174059.19">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="leo.20151109235802.19">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+=======
+		
+        
+				
+</t>
+<t tx="leo.20151116114353.42">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -2835,6 +3374,249 @@ g.es("pelican 執行完畢")</t>
 &lt;/script&gt;
 	
 </t>
+<<<<<<< HEAD
+<t tx="leo.20151109235802.2">&lt;!--
+=======
+<t tx="leo.20151116114353.43">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151116114353.44">&lt;!--
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<<<<<<< HEAD
+<t tx="leo.20151109235802.3">&lt;!doctype html&gt;
+=======
+<t tx="leo.20151116114353.45">&lt;!doctype html&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<<<<<<< HEAD
+<t tx="leo.20151109235802.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151109235802.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+=======
+<t tx="leo.20151116114353.46">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151116114353.47">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<<<<<<< HEAD
+<t tx="leo.20151109235802.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+=======
+<t tx="leo.20151116114353.48">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<<<<<<< HEAD
+<t tx="leo.20151109235802.7">&lt;!-- 以下為投影片 --&gt;
+=======
+<t tx="leo.20151116114353.49">&lt;!-- 以下為投影片 --&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323248 楊承儒 &lt;br&gt;9月24日&lt;/p&gt;		
+&lt;/section&gt;
+	
+    </t>
+<<<<<<< HEAD
+<t tx="leo.20151109235802.8">&lt;section id="hw-task-one"&gt;
+=======
+<t tx="leo.20151116114353.5">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151116114353.50">&lt;section id="hw-task-one"&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;p&gt;第一周:&lt;br&gt;複習git add  git push 操作&lt;br&gt;
+    第二周:&lt;br&gt;使用git在github管理個人資料利用Leo Editor 更改 有關於我的作業 ，作業任務，及我的投影片，save後再推至遠端剛開始點開start並沒有Leo&lt;br&gt;要至https://github.com/leo-editor/leo-editor 下載得到目錄之後再把leo檔案傳至Ana3→Lib→site packages 丟start到編輯器修改&lt;br&gt;之後到2015Fall CADP 第2週 下載reveal 在自己github件一個倉儲 建分支 git clone git branch(檢查分支) git checkout gh-pages →git commit -m ""→git push→pip install pelicam Markdown→貼回自己的檔案，推回去，開Leo編輯reveal.leo 改投影片內容&lt;br&gt;完成後存檔 開啟simplest，可以在近端確定自己改的投影片內容，沒問題即在push回去  &lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w1.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
+&lt;/section&gt;
+	
+</t>
+<<<<<<< HEAD
+<t tx="leo.20151109235802.9">&lt;section&gt;
+=======
+<t tx="leo.20151116114353.51">&lt;section&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
+    &lt;h2&gt;自評70分&lt;/h2&gt;
+    &lt;p&gt;修改作業時，遇到許多狀況，修改許久還是沒有改善問題，經過跟同學們一番討論，才能排除許多問題原因，像是遲遲無法推上去分支，遠端網頁無法顯示之類的，一年級上的python就覺得英文很重要，應該是說不論是課堂上，還是日常生活上，學會第二語言是重要的，還有要完全瞭解整個步驟，如何創分支，如何利用Leo Editor更改架網頁，如何SciTE 文字編輯器, 經由python.properties 設定, 可以在編輯器中執行簡單的 Python 3 程式等等，才能知道自己在做些什麼，不然只是一步錯，步步錯。&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+
+				
+</t>
+<<<<<<< HEAD
+<t tx="leo.20151228174059.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151228174059.10">&lt;!-- 以下為投影片 --&gt;
+=======
+<t tx="leo.20151116114353.52">&lt;!-- 以下為投影片 --&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323248 楊承儒 &lt;br&gt;10月11日&lt;/p&gt;		
+&lt;/section&gt;
+	
+    </t>
+<<<<<<< HEAD
+<t tx="leo.20151228174059.11">&lt;section id="hw-task-one"&gt;
+=======
+<t tx="leo.20151116114353.53">&lt;section id="hw-task-one"&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;p&gt;第四周:&lt;br&gt;複習git add  git push 操作&lt;br&gt;
+    第四周:&lt;br&gt;cd tmp→git clone 上次所創的倉儲專案網址→cd 專案→ git branch 檢查分支→git checkout gh-pages 移至分頁→之後開啟 readme.md 確認連結是否正確 README→啟動reveal.leo →複製edit 2015 cphww1 跟 simplest →改日期跟名字、標題、iframe src="simplest.html"改simplest2→在切換button pelican content之後按 pelican-content 確認執行完畢→練習solvespace.exe 繪圖→練習後畫好截圖→把圖丟進資料夾images→推回去git add -A →git commit -m "a"→git push origin gh-pages &lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w1.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
+&lt;/section&gt;
+	
+</t>
+<<<<<<< HEAD
+<t tx="leo.20151228174059.12">&lt;section&gt;
+=======
+<t tx="leo.20151116114353.54">&lt;section&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
+    &lt;h2&gt;自評70分&lt;/h2&gt;
+    &lt;p&gt;第一次使用solvespace.exe繪圖軟體很不上手，以往的inventor差異極大，經由同學指導，了解大部分的指令步驟，也知道要如何再建一個新的分頁，看了solve space官網的教學步驟  深深認為英文真的非常非常的重要，現在還是無法完整了解，遇到沒見過的單字就卡住，希望我能更深入了解電腦輔助設計&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+
+				
+</t>
+<<<<<<< HEAD
+<t tx="leo.20151228174059.13">&lt;!-- 以下為投影片 --&gt;
+=======
+<t tx="leo.20151116114353.55">&lt;!-- 以下為投影片 --&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323248 楊承儒 &lt;br&gt;10月11日&lt;/p&gt;		
+&lt;/section&gt;
+	
+    </t>
+<<<<<<< HEAD
+<t tx="leo.20151228174059.14">&lt;section id="hw-task-one"&gt;
+=======
+<t tx="leo.20151116114353.56">&lt;section id="hw-task-one"&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;p&gt;第五周:&lt;br&gt;複習git add  git push 操作&lt;br&gt;cd tmp→git clone 上次所創的倉儲專案網址→cd 專案→ git branch 檢查分支→git checkout gh-pages 移至分頁→之後開啟 readme.md 確認連結是否正確 README→啟動reveal.leo →複製edit 2015 cphww1 跟 simplest →改日期跟名字、標題、iframe src="simplest.html"改simplest3→在切換button pelican content之後按 pelican-content 確認執行完畢→練習Creo Parametric 繪製方塊及連接桿→練習時錄製影片→並把影片上傳至vimeo→複製嵌入程式碼→推回去git add -A →git commit -m "a"→git push origin gh-pages &lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w1.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
+&lt;/section&gt;
+	
+</t>
+<<<<<<< HEAD
+<t tx="leo.20151228174059.15">&lt;section&gt;
+=======
+<t tx="leo.20151116114353.57">&lt;section&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
+    &lt;h2&gt;自評70分&lt;/h2&gt;
+    &lt;p&gt;上週使用solvespace.exe繪圖軟體很不上手，以往的inventor差異極大，經由同學指導，了解大部分的指令步驟，這週則是使用Creo Parametric 繪製方塊及連接桿 以及熟悉指令，但跟inventor比Creo Parametric的一些操作指令還是有些不便，還有錄製過程影片的時間還要多加把握&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+
+				
+</t>
+<<<<<<< HEAD
+<t tx="leo.20151228174059.16">&lt;!-- 以下為投影片 --&gt;
+=======
+<t tx="leo.20151116114353.58">&lt;!-- 以下為投影片 --&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323248 楊承儒 &lt;br&gt;11月07日&lt;/p&gt;		
+&lt;/section&gt;
+	
+    </t>
+<<<<<<< HEAD
+<t tx="leo.20151228174059.17">&lt;section id="hw-task-one"&gt;
+=======
+<t tx="leo.20151116114353.59">&lt;section id="hw-task-one"&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;p&gt;第五周:&lt;br&gt;複習git add  git push 操作&lt;br&gt; 利用 Leo Editor 摘要重點, 建立個人 Github 課程倉儲 (名稱為 2015cadpb，練習solvespace及cero parametric ,並繪製腳踏車零件&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w1.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
+&lt;/section&gt;
+	
+</t>
+<<<<<<< HEAD
+<t tx="leo.20151228174059.18">&lt;section&gt;
+=======
+<t tx="leo.20151116114353.6">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151116114353.60">&lt;section&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
+    &lt;h2&gt;自評70分&lt;/h2&gt;
+    &lt;p&gt; 這週還是多多練習Cero parametric  ,盡量讓它上手,也謝謝同學在我不懂的時候不厭其煩的教我&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+
+				
+</t>
+<<<<<<< HEAD
+<t tx="leo.20151228174059.19">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+=======
+<t tx="leo.20151116114353.61">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<<<<<<< HEAD
 <t tx="leo.20151228174059.2">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
@@ -2861,16 +3643,31 @@ g.es("pelican 執行完畢")</t>
 &lt;/body&gt;
 </t>
 <t tx="leo.20151228174059.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+=======
+<t tx="leo.20151116114353.62"></t>
+<t tx="leo.20151116114353.63"></t>
+<t tx="leo.20151116114353.65"></t>
+<t tx="leo.20151116114353.66"></t>
+<t tx="leo.20151116114353.7">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
+<<<<<<< HEAD
 <t tx="leo.20151228174059.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+=======
+<t tx="leo.20151116114353.8">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
+<<<<<<< HEAD
 <t tx="leo.20151228174059.7">&lt;!-- 以下為投影片 --&gt;
+=======
+<t tx="leo.20151116114353.9">&lt;!-- 以下為投影片 --&gt;
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
@@ -2879,6 +3676,7 @@ g.es("pelican 執行完畢")</t>
 &lt;/section&gt;
 	
     </t>
+<<<<<<< HEAD
 <t tx="leo.20151228174059.8">&lt;section id="hw-task-one"&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;p&gt;第一周:&lt;br&gt;複習git add  git push 操作&lt;br&gt;
@@ -2895,5 +3693,7 @@ g.es("pelican 執行完畢")</t>
 
 				
 </t>
+=======
+>>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 </tnodes>
 </leo_file>
