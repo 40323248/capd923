@@ -288,7 +288,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -2246,7 +2246,6 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;section&gt;
     &lt;h1&gt;第3張投影片&lt;/h1&gt;
     &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; d499f2292cc95390aa61f18e6a7fbee68c1a6f00
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;
 				
@@ -2278,7 +2277,6 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
     &lt;p&gt;40323248 楊承儒 &lt;br&gt;9月24日&lt;/p&gt;		
 &lt;/section&gt;
