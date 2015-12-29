@@ -10,7 +10,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20150913232631.1" a="E"><vh>@settings</vh>
+<v t="amd.20150913232631.1"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 <v t="amd.20150915153206.1"><vh>專案說明</vh>
@@ -20,7 +20,7 @@
 <v t="amd.20150919102541.1"><vh>pelican 與 Markdown</vh></v>
 </v>
 </v>
-<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
+<v t="amd.20150919102739.1"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20150919103428.1"><vh>reveal.js 設定</vh></v>
 <v t="amd.20150919103341.1"><vh>Jupyter 設定</vh>
@@ -372,7 +372,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151228174059.1"><vh>@clean 40323248_cp_w11.html</vh>
+<v t="leo.20151228174059.1" a="E"><vh>@clean 40323248_cp_w11.html</vh>
 <v t="leo.20151228174059.2"><vh>檔案說明</vh></v>
 <v t="leo.20151228174059.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151228174059.4" a="E"><vh>body 標註</vh>
@@ -2541,7 +2541,7 @@ g.es("pelican 執行完畢")</t>
     </t>
 <t tx="leo.20151228174059.8">&lt;section id="hw-task-one"&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
-    &lt;p&gt;建立組別共同倉儲，建立分組名單，並且利用cero parametric，繪製Nutcracker 機構 等八個零件，繪製時錄製影片，並且利用Leo.editor編輯器推上遠端
+    &lt;p&gt;建立組別共同倉儲，建立分組名單，並且利用cero parametric，繪製Nutcracker 機構 等八個零件，繪製時錄製影片，並且利用Leo.editor編輯器推上遠端。
       &lt;/p&gt;
     &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w11.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
 &lt;/section&gt;
