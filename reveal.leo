@@ -20,7 +20,7 @@
 <v t="amd.20150919102541.1"><vh>pelican 與 Markdown</vh></v>
 </v>
 </v>
-<v t="amd.20150919102739.1"><vh>專案架構</vh>
+<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20150919103428.1"><vh>reveal.js 設定</vh></v>
 <v t="amd.20150919103341.1"><vh>Jupyter 設定</vh>
@@ -28,7 +28,7 @@
 <v t="amd.20150919104249.1"><vh>檢查 profile 位置</vh></v>
 </v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
-<v t="amd.20150919112710.1" a="E"><vh>@path pelican</vh>
+<v t="amd.20150919112710.1"><vh>@path pelican</vh>
 <v t="amd.20150919113340.1"><vh>以下為與 pelican 有關的設定檔案</vh></v>
 <v t="amd.20150919113132.1"><vh>@edit publishconf.py</vh></v>
 </v>
@@ -305,10 +305,10 @@
 </v>
 <v t="leo.20151230012347.1"><vh>@clean 40323248_cp_w4.html</vh>
 <v t="leo.20151230012347.2"><vh>檔案說明</vh></v>
-<v t="leo.20151230012347.3"><vh>html 標註</vh>
-<v t="leo.20151230012347.4"><vh>body 標註</vh>
-<v t="leo.20151230012347.5"><vh>div class="reveal"</vh>
-<v t="leo.20151230012347.6"><vh>div class="slides"</vh>
+<v t="leo.20151230012347.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151230012347.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151230012347.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151230012347.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151230012347.7"><vh>標題</vh></v>
 <v t="leo.20151230012347.8"><vh>作業任務一</vh></v>
 <v t="leo.20151230012347.9"><vh>自評</vh></v>
@@ -350,7 +350,7 @@
 </v>
 <v t="leo.20151109235802.1"><vh>@clean 40323248_cp_w8.html</vh>
 <v t="leo.20151109235802.2"><vh>檔案說明</vh></v>
-<v t="leo.20151109235802.3"><vh>html 標註</vh>
+<v t="leo.20151109235802.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151109235802.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151109235802.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151109235802.6" a="E"><vh>div class="slides"</vh>
