@@ -387,7 +387,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151228183110.1"><vh>@clean 40323248_cp_w12.html</vh>
+<v t="leo.20151228183110.1" a="E"><vh>@clean 40323248_cp_w12.html</vh>
 <v t="leo.20151228183110.2"><vh>檔案說明</vh></v>
 <v t="leo.20151228183110.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151228183110.4" a="E"><vh>body 標註</vh>
@@ -2917,7 +2917,7 @@ g.es("pelican 執行完畢")</t>
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;p&gt;下載fix，下載leo editor放置目錄，更改start內pip install，啟動fix，把檔案複製到對應的地方，按start安裝執行
       &lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w11.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
+    &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w12.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
 &lt;/section&gt;
 	
 </t>
