@@ -420,7 +420,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151230162315.1"><vh>@clean 40323248_cp_w15.html</vh>
+<v t="leo.20151230162315.1" a="E"><vh>@clean 40323248_cp_w15.html</vh>
 <v t="leo.20151230162315.2"><vh>檔案說明</vh></v>
 <v t="leo.20151230162315.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151230162315.4" a="E"><vh>body 標註</vh>
@@ -3025,21 +3025,20 @@ g.es("pelican 執行完畢")</t>
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
-    &lt;p&gt;40323248 楊承儒 &lt;br&gt;11月30日&lt;/p&gt;		
+    &lt;p&gt;40323248 楊承儒 &lt;br&gt;12月14日&lt;/p&gt;		
 &lt;/section&gt;
 	
     </t>
 <t tx="leo.20151230162315.8">&lt;section id="hw-task-one"&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
-    &lt;p&gt;下載fix，下載leo editor放置目錄，更改start內pip install，啟動fix，把檔案複製到對應的地方，按start安裝執行
-      &lt;/p&gt;
+    &lt;p&gt;在onshape新增一個群組檔案，然後新增組員為管理者，並能在同時間編輯圖檔，然後利用solvespace計算機構的最大最小移動範圍。&lt;/p&gt;
     &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w15.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20151230162315.9">&lt;section&gt;
-    &lt;h2&gt;自評75分&lt;/h2&gt;
-    &lt;p&gt;這周下載fix檔案，將leo editor 升級至5.1版本，讓我們使用更加快速，開啟C槽start安裝執行&lt;/p&gt;
+    &lt;h2&gt;自評80分&lt;/h2&gt;
+    &lt;p&gt;這周練習onshape，與 Creo Parametric 繪製 Nutcracker 機構一樣，並且以小組為單位進行，onshape進行組別繪製有一個缺點，正是如果組員多人在群組進行繪製時可能造成自己所畫的零件，被隊員修改，所以團隊溝通很重要，自己先畫好零件在丟入群組較好。&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;
 
