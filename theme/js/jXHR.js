@@ -82,7 +82,3 @@
 		return publicAPI;
 	};
 })(window);
-<<<<<<< HEAD
-=======
-
->>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00

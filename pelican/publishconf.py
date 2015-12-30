@@ -26,19 +26,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
-<<<<<<< HEAD
-         ('Python', 'http://python.org/'),
-         ('You can modify those links in your config file', '#'),)
-
-# Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
-
-DEFAULT_PAGINATION = 10
-
-SITEURL = 'http://example.com'
-=======
-         ('Python', 'http://python.org/'),)
+         ('Python', 'http://python.org/'),('2015作業主頁', '../../'),('My github', 'https://github.com/YANG-CHENG-RU/capd923/tree/gh-pages'),('My HW pages', 'http://yang-cheng-ru.github.io/capd923/user/40323248/'))
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
@@ -47,7 +35,6 @@ SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
 DEFAULT_PAGINATION = 10
 
 SITEURL = 'http://coursemdetw.github.io/reveal'
->>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
 RELATIVE_URLS = True
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
@@ -58,24 +45,13 @@ DELETE_OUTPUT_DIRECTORY = True
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
-<<<<<<< HEAD
-DISQUS_SITENAME = "2015Fall"
-#GOOGLE_ANALYTICS = ""
-=======
 DISQUS_SITENAME = "2015fall"
 #GOOGLE_ANALYTICS = ""
 
 # 必須絕對目錄或相對於設定檔案所在目錄
-PLUGIN_PATHS = ['./../plugin']
+PLUGIN_PATHS = ['./../../../plugin']
 PLUGINS = ['liquid_tags.notebook']
 # 目錄設定相對於 reveal 下的 content 目錄
 NOTEBOOK_DIR = 'notebook'
-'''
-if not os.path.exists('_nb_header.html'):     
-    import warnings 
-    warnings.warn("_nb_header.html not found.") 
-else: 
-    EXTRA_HEADER = open('_nb_header.html', encoding="utf-8").read()
-'''
 
->>>>>>> d499f2292cc95390aa61f18e6a7fbee68c1a6f00
+

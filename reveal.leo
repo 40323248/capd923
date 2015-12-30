@@ -14,13 +14,13 @@
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 <v t="amd.20150915153206.1"><vh>專案說明</vh>
-<v t="amd.20150919102209.1" a="E"><vh>使用工具</vh>
+<v t="amd.20150919102209.1"><vh>使用工具</vh>
 <v t="amd.20150919112415.1"><vh>影片檔案</vh></v>
 </v>
 <v t="amd.20150919102541.1"><vh>pelican 與 Markdown</vh></v>
 </v>
 </v>
-<v t="amd.20150919102739.1"><vh>專案架構</vh>
+<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20150919103428.1"><vh>reveal.js 設定</vh></v>
 <v t="amd.20150919103341.1"><vh>Jupyter 設定</vh>
@@ -28,7 +28,7 @@
 <v t="amd.20150919104249.1"><vh>檢查 profile 位置</vh></v>
 </v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
-<v t="amd.20150919112710.1"><vh>@path pelican</vh>
+<v t="amd.20150919112710.1" a="E"><vh>@path pelican</vh>
 <v t="amd.20150919113340.1"><vh>以下為與 pelican 有關的設定檔案</vh></v>
 <v t="amd.20150919113132.1"><vh>@edit publishconf.py</vh></v>
 </v>
@@ -46,19 +46,19 @@
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
-<v t="amd.20150913233943.2" a="E"><vh>html</vh>
-<v t="amd.20150913233943.3" a="E"><vh>head</vh>
+<v t="amd.20150913233943.2"><vh>html</vh>
+<v t="amd.20150913233943.3"><vh>head</vh>
 <v t="amd.20150913233943.4"><vh>title</vh></v>
 </v>
-<v t="amd.20150913233943.5" a="E"><vh>body</vh>
-<v t="amd.20150913233943.6" a="E"><vh>div</vh>
-<v t="amd.20150913233943.7" a="E"><vh>div</vh>
+<v t="amd.20150913233943.5"><vh>body</vh>
+<v t="amd.20150913233943.6"><vh>div</vh>
+<v t="amd.20150913233943.7"><vh>div</vh>
 <v t="amd.20150913234947.1"><vh>title page</vh>
 <v t="amd.20150913235225.1"><vh>標題頁下的子頁</vh></v>
 </v>
 <v t="amd.20150913235034.1"><vh>本日要點</vh></v>
 <v t="amd.20150914000138.1"><vh>Anaconda Python</vh></v>
-<v t="amd.20150914000332.1" a="E"><vh>設計的表達方式</vh>
+<v t="amd.20150914000332.1"><vh>設計的表達方式</vh>
 <v t="amd.20150914000332.2"><vh>協同模式下的網際雲端內容呈現</vh></v>
 </v>
 <v t="amd.20150913235123.1"><vh>結論</vh></v>
@@ -71,15 +71,15 @@
 </v>
 </v>
 <v t="amd.20150915155634.1"><vh>@clean cadpaw1.html</vh>
-<v t="amd.20150915155634.2" a="E"><vh>html 標註</vh>
-<v t="amd.20150915155634.3" a="E"><vh>head</vh>
+<v t="amd.20150915155634.2"><vh>html 標註</vh>
+<v t="amd.20150915155634.3"><vh>head</vh>
 <v t="amd.20150915155634.4"><vh>title - 標題</vh></v>
 <v t="amd.20150915155634.5"><vh>meta - 說明</vh></v>
 <v t="amd.20150915155634.7"><vh>script - css 與 pdf 列印</vh></v>
 </v>
 <v t="amd.20150915155634.8"><vh>body</vh>
-<v t="amd.20150915155634.9" a="E"><vh>div - reveal</vh>
-<v t="amd.20150915155634.10" a="E"><vh>div - slides</vh>
+<v t="amd.20150915155634.9"><vh>div - reveal</vh>
+<v t="amd.20150915155634.10"><vh>div - slides</vh>
 <v t="amd.20150915155634.11"><vh>h1 - 課程說明</vh></v>
 <v t="amd.20150915172241.1"><vh>h1 - 開放自評規劃</vh></v>
 <v t="amd.20150915155634.12"><vh>h2 - 實體輔助工具</vh></v>
@@ -89,7 +89,7 @@
 <v t="amd.20150915155634.16"><vh>h2</vh></v>
 </v>
 <v t="amd.20150915173703.1"><vh>h2 - 內含程式碼頁面</vh>
-<v t="amd.20150915173703.2" a="E"><vh>pre</vh>
+<v t="amd.20150915173703.2"><vh>pre</vh>
 <v t="amd.20150915173703.3"><vh>code</vh></v>
 </v>
 <v t="amd.20150915173703.4"><vh>p</vh></v>
@@ -99,9 +99,9 @@
 <v t="amd.20150915155634.18"><vh>h2</vh></v>
 <v t="amd.20150915155634.19"><vh>h2</vh></v>
 <v t="amd.20150915155634.20"><vh>markdown 頁面</vh></v>
-<v t="amd.20150915155634.21" a="E"><vh>h2</vh>
+<v t="amd.20150915155634.21"><vh>h2</vh>
 <v t="amd.20150915160450.1"><vh>Fragement 主頁面</vh></v>
-<v t="amd.20150915155634.28" a="E"><vh>下屬頁面</vh>
+<v t="amd.20150915155634.28"><vh>下屬頁面</vh>
 <v t="amd.20150915161424.1"><vh>h2</vh></v>
 <v t="amd.20150915155634.29"><vh>p</vh></v>
 <v t="amd.20150915155634.30"><vh>p</vh></v>
@@ -122,7 +122,7 @@
 <v t="amd.20150915155634.43"><vh>a</vh></v>
 </v>
 <v t="amd.20150915155634.44"><vh>h2 - 更換主題</vh></v>
-<v t="amd.20150915155634.45" a="E"><vh>p</vh>
+<v t="amd.20150915155634.45"><vh>p</vh>
 <v t="amd.20150915155634.46"><vh>a</vh></v>
 <v t="amd.20150915155634.47"><vh>a</vh></v>
 <v t="amd.20150915155634.48"><vh>a</vh></v>
@@ -141,14 +141,14 @@
 </v>
 <v t="amd.20150915155634.60"><vh>a</vh></v>
 <v t="amd.20150915155634.61"><vh>h2</vh></v>
-<v t="amd.20150915155634.62" a="E"><vh>pre</vh>
+<v t="amd.20150915155634.62"><vh>pre</vh>
 <v t="amd.20150915155634.63"><vh>code</vh></v>
 </v>
 <v t="amd.20150915155634.64"><vh>h2 - 背景填圖頁面</vh></v>
-<v t="amd.20150915155634.65" a="E"><vh>pre</vh>
+<v t="amd.20150915155634.65"><vh>pre</vh>
 <v t="amd.20150915155634.66"><vh>code</vh></v>
 </v>
-<v t="amd.20150915155634.67" a="E"><vh>div</vh>
+<v t="amd.20150915155634.67"><vh>div</vh>
 <v t="amd.20150915155634.68"><vh>h2</vh></v>
 <v t="amd.20150915155634.69"><vh>pre</vh>
 <v t="amd.20150915155634.70"><vh>code</vh></v>
@@ -162,17 +162,17 @@
 </v>
 <v t="amd.20150915155634.76"><vh>h2 - 背景轉換</vh></v>
 <v t="amd.20150915155634.77"><vh>p</vh></v>
-<v t="amd.20150915155634.78" a="E"><vh>pre</vh>
+<v t="amd.20150915155634.78"><vh>pre</vh>
 <v t="amd.20150915155634.79"><vh>code</vh></v>
 </v>
-<v t="amd.20150915155634.80" a="E"><vh>h2 - 內含程式碼頁面</vh>
-<v t="amd.20150915155634.81" a="E"><vh>pre</vh>
+<v t="amd.20150915155634.80"><vh>h2 - 內含程式碼頁面</vh>
+<v t="amd.20150915155634.81"><vh>pre</vh>
 <v t="amd.20150915155634.82"><vh>code</vh></v>
 </v>
 <v t="amd.20150915155634.83"><vh>p</vh></v>
 </v>
 <v t="amd.20150915155634.85"><vh>h2</vh></v>
-<v t="amd.20150915155634.86" a="E"><vh>ul</vh>
+<v t="amd.20150915155634.86"><vh>ul</vh>
 <v t="amd.20150915155634.87"><vh>li</vh></v>
 <v t="amd.20150915155634.88"><vh>li</vh></v>
 <v t="amd.20150915155634.89"><vh>li</vh></v>
@@ -185,7 +185,7 @@
 <v t="amd.20150915155634.95"><vh>li</vh></v>
 </v>
 <v t="amd.20150915155634.96"><vh>h2 - 表格頁面</vh></v>
-<v t="amd.20150915155634.97" a="E"><vh>table</vh>
+<v t="amd.20150915155634.97"><vh>table</vh>
 <v t="amd.20150915155634.98"><vh>thead</vh>
 <v t="amd.20150915155634.99"><vh>tr</vh>
 <v t="amd.20150915155634.100"><vh>th</vh></v>
@@ -221,7 +221,7 @@
 <v t="amd.20150915155634.122"><vh>a</vh></v>
 </v>
 <v t="amd.20150915155634.123"><vh>h2</vh></v>
-<v t="amd.20150915155634.124" a="E"><vh>p</vh>
+<v t="amd.20150915155634.124"><vh>p</vh>
 <v t="amd.20150915155634.125"><vh>a</vh></v>
 </v>
 <v t="amd.20150915155634.126"><vh>p</vh>
@@ -233,7 +233,7 @@
 </v>
 <v t="amd.20150915155634.131"><vh>iframe</vh></v>
 <v t="amd.20150915155634.132"><vh>h2</vh></v>
-<v t="amd.20150915155634.133" a="E"><vh>p</vh>
+<v t="amd.20150915155634.133"><vh>p</vh>
 <v t="amd.20150915155634.134"><vh>code</vh></v>
 <v t="amd.20150915155634.135"><vh>code</vh></v>
 </v>
@@ -246,7 +246,7 @@
 </v>
 <v t="amd.20150915155634.141"><vh>h2 按下 b 或 . 可以 black 畫面</vh></v>
 <v t="amd.20150915155634.142"><vh>p</vh></v>
-<v t="amd.20150915155634.143" a="E"><vh>h2 unordered list 頁面</vh>
+<v t="amd.20150915155634.143"><vh>h2 unordered list 頁面</vh>
 <v t="amd.20150915155634.148"><vh>li</vh>
 <v t="amd.20150915155634.149"><vh>a</vh></v>
 </v>
@@ -272,10 +272,10 @@
 </v>
 <v t="ibm.20150918175403.1"><vh>@clean cpw1.html</vh>
 <v t="ibm.20150918175403.2"><vh>檔案說明</vh></v>
-<v t="ibm.20150918175403.3" a="E"><vh>html 標註</vh>
-<v t="ibm.20150918175403.4" a="E"><vh>body 標註</vh>
-<v t="ibm.20150918175403.5" a="E"><vh>div class="reveal"</vh>
-<v t="ibm.20150918175403.6" a="E"><vh>div class="slides"</vh>
+<v t="ibm.20150918175403.3"><vh>html 標註</vh>
+<v t="ibm.20150918175403.4"><vh>body 標註</vh>
+<v t="ibm.20150918175403.5"><vh>div class="reveal"</vh>
+<v t="ibm.20150918175403.6"><vh>div class="slides"</vh>
 <v t="ibm.20150918175403.7"><vh>有關我的作業</vh></v>
 <v t="ibm.20150918175403.8"><vh>課程規劃</vh></v>
 <v t="ibm.20150918175403.9"><vh>作業規劃</vh></v>
@@ -290,10 +290,10 @@
 </v>
 <v t="leo.20151230012257.1"><vh>@clean 40323248_cp_w2.html</vh>
 <v t="leo.20151230012257.2"><vh>檔案說明</vh></v>
-<v t="leo.20151230012257.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151230012257.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151230012257.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151230012257.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151230012257.3"><vh>html 標註</vh>
+<v t="leo.20151230012257.4"><vh>body 標註</vh>
+<v t="leo.20151230012257.5"><vh>div class="reveal"</vh>
+<v t="leo.20151230012257.6"><vh>div class="slides"</vh>
 <v t="leo.20151230012257.7"><vh>標題</vh></v>
 <v t="leo.20151230012257.8"><vh>作業任務一</vh></v>
 <v t="leo.20151230012257.9"><vh>自評</vh></v>
@@ -305,10 +305,10 @@
 </v>
 <v t="leo.20151230012347.1"><vh>@clean 40323248_cp_w4.html</vh>
 <v t="leo.20151230012347.2"><vh>檔案說明</vh></v>
-<v t="leo.20151230012347.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151230012347.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151230012347.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151230012347.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151230012347.3"><vh>html 標註</vh>
+<v t="leo.20151230012347.4"><vh>body 標註</vh>
+<v t="leo.20151230012347.5"><vh>div class="reveal"</vh>
+<v t="leo.20151230012347.6"><vh>div class="slides"</vh>
 <v t="leo.20151230012347.7"><vh>標題</vh></v>
 <v t="leo.20151230012347.8"><vh>作業任務一</vh></v>
 <v t="leo.20151230012347.9"><vh>自評</vh></v>
@@ -350,10 +350,10 @@
 </v>
 <v t="leo.20151109235802.1"><vh>@clean 40323248_cp_w8.html</vh>
 <v t="leo.20151109235802.2"><vh>檔案說明</vh></v>
-<v t="leo.20151109235802.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151109235802.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151109235802.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151109235802.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151109235802.3"><vh>html 標註</vh>
+<v t="leo.20151109235802.4"><vh>body 標註</vh>
+<v t="leo.20151109235802.5"><vh>div class="reveal"</vh>
+<v t="leo.20151109235802.6"><vh>div class="slides"</vh>
 <v t="leo.20151109235802.7"><vh>標題</vh></v>
 <v t="leo.20151109235802.8"><vh>作業任務一</vh></v>
 <v t="leo.20151109235802.9"><vh>自評</vh></v>
@@ -374,10 +374,10 @@
 </v>
 <v t="leo.20151228174059.1"><vh>@clean 40323248_cp_w11.html</vh>
 <v t="leo.20151228174059.2"><vh>檔案說明</vh></v>
-<v t="leo.20151228174059.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151228174059.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151228174059.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151228174059.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151228174059.3"><vh>html 標註</vh>
+<v t="leo.20151228174059.4"><vh>body 標註</vh>
+<v t="leo.20151228174059.5"><vh>div class="reveal"</vh>
+<v t="leo.20151228174059.6"><vh>div class="slides"</vh>
 <v t="leo.20151228174059.7"><vh>標題</vh></v>
 <v t="leo.20151228174059.8"><vh>作業任務一</vh></v>
 <v t="leo.20151228174059.9"><vh>自評</vh></v>
@@ -389,10 +389,10 @@
 </v>
 <v t="leo.20151228183110.1"><vh>@clean 40323248_cp_w12.html</vh>
 <v t="leo.20151228183110.2"><vh>檔案說明</vh></v>
-<v t="leo.20151228183110.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151228183110.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151228183110.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151228183110.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151228183110.3"><vh>html 標註</vh>
+<v t="leo.20151228183110.4"><vh>body 標註</vh>
+<v t="leo.20151228183110.5"><vh>div class="reveal"</vh>
+<v t="leo.20151228183110.6"><vh>div class="slides"</vh>
 <v t="leo.20151228183110.7"><vh>標題</vh></v>
 <v t="leo.20151228183110.8"><vh>作業任務一</vh></v>
 <v t="leo.20151228183110.9"><vh>自評</vh></v>
@@ -403,18 +403,18 @@
 </v>
 </v>
 <v t="amd.20150915170743.1"><vh>@clean v31ref.html</vh>
-<v t="amd.20150915170743.2" a="E"><vh>html 標註</vh>
-<v t="amd.20150915170743.3" a="E"><vh>head</vh>
+<v t="amd.20150915170743.2"><vh>html 標註</vh>
+<v t="amd.20150915170743.3"><vh>head</vh>
 <v t="amd.20150915170743.4"><vh>title - 標題</vh></v>
 <v t="amd.20150915170743.5"><vh>meta - 說明</vh></v>
 <v t="amd.20150915170743.6"><vh>script - css 與 pdf 列印</vh></v>
 </v>
-<v t="amd.20150915170743.7" a="E"><vh>body</vh>
-<v t="amd.20150915170743.8" a="E"><vh>div - reveal</vh>
-<v t="amd.20150915170743.9" a="E"><vh>div - slides</vh>
+<v t="amd.20150915170743.7"><vh>body</vh>
+<v t="amd.20150915170743.8"><vh>div - reveal</vh>
+<v t="amd.20150915170743.9"><vh>div - slides</vh>
 <v t="amd.20150915170743.10"><vh>h1 - 一般單頁</vh></v>
 <v t="amd.20150915170743.11"><vh>h2</vh></v>
-<v t="amd.20150915170743.12" a="E"><vh>h2 - 垂直有下屬頁</vh>
+<v t="amd.20150915170743.12"><vh>h2 - 垂直有下屬頁</vh>
 <v t="amd.20150915170743.13"><vh>h2</vh></v>
 <v t="amd.20150915170743.14"><vh>h2</vh></v>
 <v t="amd.20150915170743.15"><vh>h2</vh></v>
@@ -423,9 +423,9 @@
 <v t="amd.20150915170743.17"><vh>h2</vh></v>
 <v t="amd.20150915170743.18"><vh>h2</vh></v>
 <v t="amd.20150915170743.19"><vh>markdown 頁面</vh></v>
-<v t="amd.20150915170743.20" a="E"><vh>h2</vh>
+<v t="amd.20150915170743.20"><vh>h2</vh>
 <v t="amd.20150915170743.21"><vh>Fragement 主頁面</vh></v>
-<v t="amd.20150915170743.22" a="E"><vh>下屬頁面</vh>
+<v t="amd.20150915170743.22"><vh>下屬頁面</vh>
 <v t="amd.20150915170743.23"><vh>h2</vh></v>
 <v t="amd.20150915170743.24"><vh>p</vh></v>
 <v t="amd.20150915170743.25"><vh>p</vh></v>
@@ -446,7 +446,7 @@
 <v t="amd.20150915170743.38"><vh>a</vh></v>
 </v>
 <v t="amd.20150915170743.39"><vh>h2 - 更換主題</vh></v>
-<v t="amd.20150915170743.40" a="E"><vh>p</vh>
+<v t="amd.20150915170743.40"><vh>p</vh>
 <v t="amd.20150915170743.41"><vh>a</vh></v>
 <v t="amd.20150915170743.42"><vh>a</vh></v>
 <v t="amd.20150915170743.43"><vh>a</vh></v>
@@ -465,14 +465,14 @@
 </v>
 <v t="amd.20150915170743.55"><vh>a</vh></v>
 <v t="amd.20150915170743.56"><vh>h2</vh></v>
-<v t="amd.20150915170743.57" a="E"><vh>pre</vh>
+<v t="amd.20150915170743.57"><vh>pre</vh>
 <v t="amd.20150915170743.58"><vh>code</vh></v>
 </v>
 <v t="amd.20150915170743.59"><vh>h2 - 背景填圖頁面</vh></v>
-<v t="amd.20150915170743.60" a="E"><vh>pre</vh>
+<v t="amd.20150915170743.60"><vh>pre</vh>
 <v t="amd.20150915170743.61"><vh>code</vh></v>
 </v>
-<v t="amd.20150915170743.62" a="E"><vh>div</vh>
+<v t="amd.20150915170743.62"><vh>div</vh>
 <v t="amd.20150915170743.63"><vh>h2</vh></v>
 <v t="amd.20150915170743.64"><vh>pre</vh>
 <v t="amd.20150915170743.65"><vh>code</vh></v>
@@ -486,17 +486,17 @@
 </v>
 <v t="amd.20150915170743.71"><vh>h2 - 背景轉換</vh></v>
 <v t="amd.20150915170743.72"><vh>p</vh></v>
-<v t="amd.20150915170743.73" a="E"><vh>pre</vh>
+<v t="amd.20150915170743.73"><vh>pre</vh>
 <v t="amd.20150915170743.74"><vh>code</vh></v>
 </v>
-<v t="amd.20150915170743.75" a="E"><vh>h2 - 內含程式碼頁面</vh>
-<v t="amd.20150915170743.76" a="E"><vh>pre</vh>
+<v t="amd.20150915170743.75"><vh>h2 - 內含程式碼頁面</vh>
+<v t="amd.20150915170743.76"><vh>pre</vh>
 <v t="amd.20150915170743.77"><vh>code</vh></v>
 </v>
 <v t="amd.20150915170743.78"><vh>p</vh></v>
 </v>
 <v t="amd.20150915170743.79"><vh>h2</vh></v>
-<v t="amd.20150915170743.80" a="E"><vh>ul</vh>
+<v t="amd.20150915170743.80"><vh>ul</vh>
 <v t="amd.20150915170743.81"><vh>li</vh></v>
 <v t="amd.20150915170743.82"><vh>li</vh></v>
 <v t="amd.20150915170743.83"><vh>li</vh></v>
@@ -509,7 +509,7 @@
 <v t="amd.20150915170743.89"><vh>li</vh></v>
 </v>
 <v t="amd.20150915170743.90"><vh>h2 - 表格頁面</vh></v>
-<v t="amd.20150915170743.91" a="E"><vh>table</vh>
+<v t="amd.20150915170743.91"><vh>table</vh>
 <v t="amd.20150915170743.92"><vh>thead</vh>
 <v t="amd.20150915170743.93"><vh>tr</vh>
 <v t="amd.20150915170743.94"><vh>th</vh></v>
@@ -545,7 +545,7 @@
 <v t="amd.20150915170743.116"><vh>a</vh></v>
 </v>
 <v t="amd.20150915170743.117"><vh>h2</vh></v>
-<v t="amd.20150915170743.118" a="E"><vh>p</vh>
+<v t="amd.20150915170743.118"><vh>p</vh>
 <v t="amd.20150915170743.119"><vh>a</vh></v>
 </v>
 <v t="amd.20150915170743.120"><vh>p</vh>
@@ -557,7 +557,7 @@
 </v>
 <v t="amd.20150915170743.125"><vh>iframe</vh></v>
 <v t="amd.20150915170743.126"><vh>h2</vh></v>
-<v t="amd.20150915170743.127" a="E"><vh>p</vh>
+<v t="amd.20150915170743.127"><vh>p</vh>
 <v t="amd.20150915170743.128"><vh>code</vh></v>
 <v t="amd.20150915170743.129"><vh>code</vh></v>
 </v>
@@ -570,7 +570,7 @@
 </v>
 <v t="amd.20150915170743.135"><vh>h2 按下 b 或 . 可以 black 畫面</vh></v>
 <v t="amd.20150915170743.136"><vh>p</vh></v>
-<v t="amd.20150915170743.137" a="E"><vh>h2 unordered list 頁面</vh>
+<v t="amd.20150915170743.137"><vh>h2 unordered list 頁面</vh>
 <v t="amd.20150915170743.138"><vh>li</vh>
 <v t="amd.20150915170743.139"><vh>a</vh></v>
 </v>
@@ -2706,7 +2706,6 @@ g.es("pelican 執行完畢")</t>
 <t tx="leo.20151230012347.1">@language xml
 @tabwidth -4
 @others
-
 </t>
 <t tx="leo.20151230012347.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
@@ -2781,7 +2780,6 @@ g.es("pelican 執行完畢")</t>
 <t tx="leo.20151230012437.1">@language xml
 @tabwidth -4
 @others
-
 </t>
 <t tx="leo.20151230012437.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
