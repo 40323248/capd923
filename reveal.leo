@@ -2951,21 +2951,21 @@ g.es("pelican 執行完畢")</t>
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
-    &lt;p&gt;40323248 楊承儒 &lt;br&gt;11月30日&lt;/p&gt;		
+    &lt;p&gt;40323248 楊承儒 &lt;br&gt;12月7日&lt;/p&gt;		
 &lt;/section&gt;
 	
     </t>
 <t tx="leo.20151230161955.8">&lt;section id="hw-task-one"&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
-    &lt;p&gt;下載fix，下載leo editor放置目錄，更改start內pip install，啟動fix，把檔案複製到對應的地方，按start安裝執行
+    &lt;p&gt;利用 Creo Parametric 繪製 Nutcracker 機構，並且以小組為單位，分別繪製八個零件，之後再以小組所畫的零件，加以組裝，同時也利用新的線上軟體onshape，繪製 Nutcracker 機構。
       &lt;/p&gt;
     &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w14.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20151230161955.9">&lt;section&gt;
-    &lt;h2&gt;自評75分&lt;/h2&gt;
-    &lt;p&gt;這周下載fix檔案，將leo editor 升級至5.1版本，讓我們使用更加快速，開啟C槽start安裝執行&lt;/p&gt;
+    &lt;h2&gt;自評80分&lt;/h2&gt;
+    &lt;p&gt;以小組為單位，繪製Nutcracker 機構，考驗的團隊的向心力，假如小組都沒有團結的力量，只單一個人做的話，真的會很累，onshape的組裝圖兩零件裝配時，無法完全拘束，還要再多加練習及詢問同學&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;
 
