@@ -45,7 +45,7 @@
 <v t="leo.20151228182414.1"><vh>@edit 40323248_cp_w12.md</vh></v>
 <v t="leo.20151230161948.1"><vh>@edit 40323248_cp_w14.md</vh></v>
 <v t="leo.20151230162220.1"><vh>@edit 40323248_cp_w15.md</vh></v>
-<v t="leo.20151230163433.1"><vh>@edit 40323248_cp_w16.md</vh></v>
+<v t="leo.20160104213735.1"><vh>@edit 40323248_cp_w16.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
@@ -435,18 +435,18 @@
 </v>
 </v>
 </v>
-<v t="leo.20151230163517.1"><vh>@clean 40323248_cp_w16.html</vh>
-<v t="leo.20151230163517.2"><vh>檔案說明</vh></v>
-<v t="leo.20151230163517.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151230163517.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151230163517.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151230163517.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151230163517.7"><vh>標題</vh></v>
-<v t="leo.20151230163517.8"><vh>作業任務一</vh></v>
-<v t="leo.20151230163517.9"><vh>自評</vh></v>
+<v t="leo.20160104213745.1"><vh>@clean 40323248_cp_w16.html</vh>
+<v t="leo.20160104213745.2"><vh>檔案說明</vh></v>
+<v t="leo.20160104213745.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160104213745.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160104213745.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160104213745.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160104213745.7"><vh>標題</vh></v>
+<v t="leo.20160104213745.8"><vh>作業任務一</vh></v>
+<v t="leo.20160104213745.9"><vh>自評</vh></v>
 </v>
 </v>
-<v t="leo.20151230163517.10"><vh>script</vh></v>
+<v t="leo.20160104213745.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -3044,12 +3044,12 @@ g.es("pelican 執行完畢")</t>
 
 				
 </t>
-<t tx="leo.20151230163517.1">@language xml
+<t tx="leo.20160104213745.1">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="leo.20151230163517.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="leo.20160104213745.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -3058,14 +3058,14 @@ g.es("pelican 執行完畢")</t>
 &lt;/script&gt;
 	
 </t>
-<t tx="leo.20151230163517.2">&lt;!--
+<t tx="leo.20160104213745.2">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="leo.20151230163517.3">&lt;!doctype html&gt;
+<t tx="leo.20160104213745.3">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -3079,40 +3079,40 @@ g.es("pelican 執行完畢")</t>
 &lt;/head&gt;
 @others
 </t>
-<t tx="leo.20151230163517.4">&lt;body&gt;
+<t tx="leo.20160104213745.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="leo.20151230163517.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="leo.20160104213745.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151230163517.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="leo.20160104213745.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151230163517.7">&lt;!-- 以下為投影片 --&gt;
+<t tx="leo.20160104213745.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
-    &lt;p&gt;40323248 楊承儒 &lt;br&gt;12月21日&lt;/p&gt;		
+    &lt;p&gt;40323248 楊承儒 &lt;br&gt;1月4日&lt;/p&gt;		
 &lt;/section&gt;
 	
     </t>
-<t tx="leo.20151230163517.8">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20160104213745.8">&lt;section id="hw-task-one"&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
-    &lt;p&gt;，
-      &lt;/p&gt;
+    &lt;p&gt;建立一個共同介面，名稱為b_g*_nutcracker(*為組別)，零件分工畫出，並且放入公用見面分享給組員，import所有零件，建一個組合圖 ，引入八個零件組合，並設定參數。
+&lt;/p&gt;
     &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w16.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151230163517.9">&lt;section&gt;
-    &lt;h2&gt;自評75分&lt;/h2&gt;
-    &lt;p&gt;，&lt;/p&gt;
+<t tx="leo.20160104213745.9">&lt;section&gt;
+    &lt;h2&gt;自評80分&lt;/h2&gt;
+    &lt;p&gt;電腦輔助設計與實習課程讓我們接觸到了二個繪圖程式(solvespace和Creo)還有一個繪圖網站(Onshape),並且以分組的模式讓隊友們能各自安排各自的任務,而且互相討論及學習,操作較方便,但容易受到網路影響，這學期下來讓我們漸漸的進入協同課程,替下學期的產品協同課程做基礎,希望下學期能夠充分學習到。&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;
 
