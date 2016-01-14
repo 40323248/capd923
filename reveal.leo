@@ -43,7 +43,11 @@
 <v t="leo.20151109235539.1"><vh>@edit 40323248_cp_w8.md</vh></v>
 <v t="leo.20151228173632.1"><vh>@edit 40323248_cp_w11.md</vh></v>
 <v t="leo.20151228182414.1"><vh>@edit 40323248_cp_w12.md</vh></v>
+<<<<<<< HEAD
 <v t="leo.20160114223652.1"><vh>@edit 40323248_cp_w13.md</vh></v>
+=======
+<v t="leo.20160111110210.1"><vh>@edit 40323248_cp_w13.md</vh></v>
+>>>>>>> c0d010fc5875f63f5ceb18c8b5ab095911260d35
 <v t="leo.20151230161948.1"><vh>@edit 40323248_cp_w14.md</vh></v>
 <v t="leo.20151230162220.1"><vh>@edit 40323248_cp_w15.md</vh></v>
 <v t="leo.20160104213735.1"><vh>@edit 40323248_cp_w16.md</vh></v>
@@ -406,6 +410,7 @@
 </v>
 </v>
 </v>
+<<<<<<< HEAD
 <v t="leo.20160114224623.1" a="E"><vh>@clean 40323248_cp_w13.html</vh>
 <v t="leo.20160114224623.2"><vh>檔案說明</vh></v>
 <v t="leo.20160114224623.3" a="E"><vh>html 標註</vh>
@@ -418,6 +423,20 @@
 </v>
 </v>
 <v t="leo.20160114224623.10"><vh>script</vh></v>
+=======
+<v t="leo.20160111110340.1" a="E"><vh>@clean 40323248_cp_w13.html</vh>
+<v t="leo.20160111110340.2"><vh>檔案說明</vh></v>
+<v t="leo.20160111110340.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160111110340.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160111110340.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160111110340.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160111110340.7"><vh>標題</vh></v>
+<v t="leo.20160111110340.8"><vh>作業任務一</vh></v>
+<v t="leo.20160111110340.9"><vh>自評</vh></v>
+</v>
+</v>
+<v t="leo.20160111110340.10"><vh>script</vh></v>
+>>>>>>> c0d010fc5875f63f5ceb18c8b5ab095911260d35
 </v>
 </v>
 </v>
@@ -3134,12 +3153,20 @@ g.es("pelican 執行完畢")</t>
 
 				
 </t>
+<<<<<<< HEAD
 <t tx="leo.20160114224623.1">@language xml
+=======
+<t tx="leo.20160111110340.1">@language xml
+>>>>>>> c0d010fc5875f63f5ceb18c8b5ab095911260d35
 @tabwidth -4
 @others
 
 </t>
+<<<<<<< HEAD
 <t tx="leo.20160114224623.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+=======
+<t tx="leo.20160111110340.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+>>>>>>> c0d010fc5875f63f5ceb18c8b5ab095911260d35
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -3148,14 +3175,22 @@ g.es("pelican 執行完畢")</t>
 &lt;/script&gt;
 	
 </t>
+<<<<<<< HEAD
 <t tx="leo.20160114224623.2">&lt;!--
+=======
+<t tx="leo.20160111110340.2">&lt;!--
+>>>>>>> c0d010fc5875f63f5ceb18c8b5ab095911260d35
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
+<<<<<<< HEAD
 <t tx="leo.20160114224623.3">&lt;!doctype html&gt;
+=======
+<t tx="leo.20160111110340.3">&lt;!doctype html&gt;
+>>>>>>> c0d010fc5875f63f5ceb18c8b5ab095911260d35
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -3169,30 +3204,54 @@ g.es("pelican 執行完畢")</t>
 &lt;/head&gt;
 @others
 </t>
+<<<<<<< HEAD
 <t tx="leo.20160114224623.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
 <t tx="leo.20160114224623.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+=======
+<t tx="leo.20160111110340.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160111110340.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+>>>>>>> c0d010fc5875f63f5ceb18c8b5ab095911260d35
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
+<<<<<<< HEAD
 <t tx="leo.20160114224623.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+=======
+<t tx="leo.20160111110340.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+>>>>>>> c0d010fc5875f63f5ceb18c8b5ab095911260d35
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
+<<<<<<< HEAD
 <t tx="leo.20160114224623.7">&lt;!-- 以下為投影片 --&gt;
+=======
+<t tx="leo.20160111110340.7">&lt;!-- 以下為投影片 --&gt;
+>>>>>>> c0d010fc5875f63f5ceb18c8b5ab095911260d35
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
+<<<<<<< HEAD
     &lt;p&gt;40323248 楊承儒 &lt;br&gt;12月01日&lt;/p&gt;		
 &lt;/section&gt;
 	
     </t>
 <t tx="leo.20160114224623.8">&lt;section id="hw-task-one"&gt;
+=======
+    &lt;p&gt;40323248 楊承儒 &lt;br&gt;12月1日&lt;/p&gt;		
+&lt;/section&gt;
+	
+    </t>
+<t tx="leo.20160111110340.8">&lt;section id="hw-task-one"&gt;
+>>>>>>> c0d010fc5875f63f5ceb18c8b5ab095911260d35
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;p&gt;下載fix，下載leo editor放置目錄，更改start內pip install，啟動fix，把檔案複製到對應的地方，按start安裝執行
       &lt;/p&gt;
@@ -3200,7 +3259,11 @@ g.es("pelican 執行完畢")</t>
 &lt;/section&gt;
 	
 </t>
+<<<<<<< HEAD
 <t tx="leo.20160114224623.9">&lt;section&gt;
+=======
+<t tx="leo.20160111110340.9">&lt;section&gt;
+>>>>>>> c0d010fc5875f63f5ceb18c8b5ab095911260d35
     &lt;h2&gt;自評75分&lt;/h2&gt;
     &lt;p&gt;這周下載fix檔案，將leo editor 升級至5.1版本，讓我們使用更加快速，開啟C槽start安裝執行&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
